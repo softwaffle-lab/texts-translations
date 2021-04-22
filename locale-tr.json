@@ -160,5 +160,5 @@
   "$faq@-5-a-9": "<p>Possible reasons include:</p><ul><li>quotes from different sources may vary slightly; </li><li>FOREX quotes are displayed as Bid (demand price) and Ask (offer price); Binarium displays the average quote, which is calculated as (Bid+Ask)÷2;</li><li>a minor difference in the time when quotes are received may cause them to differ in the 4th-5th decimal places.</li></ul><p>When registering, you accept that Binarium quotes have priority. They may not coincide with quotations from other resources. Third-party resources can only be considered as auxiliary tools and cannot be used to verify quotes.</p>",
   "$faq@-5-q-10": "Still have questions? Get in touch with us",
   "$faq@-5-a-10": "<p>Get help from our <a class=\"open-chat-button\">online customer support chat</a> or email us at <a href=\"mailto:support@binarium.com\">support@binarium.com</a> to request a callback. We'll contact you within an hour (during customer support operating hours).</p>",
-  "$faq@-6-title": "Обучающие видео"
+  "$faq@-6-title": "Educational videos"
 }
