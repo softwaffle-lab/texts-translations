@@ -160,5 +160,9 @@
   "$faq@-5-a-9": "<p>ประกอบไปด้วยสาเหตุที่เป็นไปได้ ดังนี้</p><ul><li>คำพูดจากแหล่งที่มาต่างๆอาจแตกต่างกันเล็กน้อย </li><li>FOREX การเสนอราคา FOREX จะแสดงเป็นราคาเสนอ (ราคาอุปสงค์) และราคาเสนอขาย (ราคาเสนอ) Binarium แสดงใบเสนอราคาเฉลี่ยซึ่งคำนวณเป็น (Bid + Ask) ÷ 2</li><li>ความแตกต่างเล็กน้อยในเวลาที่ได้รับใบเสนอราคาอาจทำให้ค่าเหล่านี้แตกต่างกันในทศนิยมที่ 4-5</li></ul><p>เมื่อลงทะเบียนคุณยอมรับว่าคำพูดของ Binarium มีลำดับความสำคัญอาจไม่ตรง กับใบเสนอราคาจากแหล่งข้อมูลอื่น ทรัพยากรของบุคคลที่สามถือได้ว่าเป็นเครื่องมือเสริมเท่านั้นและไม่สามารถใช้เพื่อยืนยันคำพูดได้</p>",
   "$faq@-5-q-10": "หากยังมีคำถาม ติดต่อกับพวกเรา",
   "$faq@-5-a-10": "<p>รับความช่วยเหลือจาก<a class=\"open-chat-button\">แชทสนับสนุนลูกค้าออนไลน์</a> หรือส่งอีเมลถึงเราที่<a href=\"mailto:thailand@binarium.com\">thailand@binarium.com</a> เพื่อขอให้โทรกลับ เราจะติดต่อคุณภายในหนึ่งชั่วโมง (ในช่วงเวลาทำการของฝ่ายบริการลูกค้า)</p>",
-  "$faq@-6-title": "Educational videos"
+  "$faq@-6-title": "Educational videos",
+  "$email-collect@title": "We would like to collect your email",
+  "$email-collect@text": "We process personal data in accordance with <a href=\"/main/client-agreement\">Client agreement</a> and <a href=\"/main/privacy\">Privacy policy</a>.<br><br>Collecting your email helps us to protect your account. You may receive emails from us and can opt out any time.",
+  "$email-collect@checkbox": "I give permission to collect my email for the above mentioned purposes",
+  "$email-collect@button": "submit"
 }
