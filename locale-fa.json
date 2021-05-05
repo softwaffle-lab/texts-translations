@@ -160,5 +160,9 @@
   "$faq@-5-a-9": "<p>دلایل احتمالی شامل این موارد است:</p><ul><li>مظنه‌های منابع مختلف ممکن است اندکی تفاوت داشته باشد؛ </li><li>مظنه‌های فارکس به صورت قیمت خرید (قیمت تقاضا) و قیمت فروش (قیمت پیشنهاد شده) نمایش داده می‌شود؛ Binarium میانگین مظنه را نشان می‌دهد، که به صورت (قیمت خرید+فروش)÷2 محاسبه می‌شود؛</li><li>یک اختلاف جزئی در زمان دریافت مظنه‌ها می‌تواند باعث شود تا آنها در ارقام اعشاری چهارم یا پنجم تفاوت داشته باشند.</li></ul><p>در زمان ثبت نام، شما می‌پذیرید که مظنه‌های Binarium اولویت دارند. این مظنه‌ها ممکن است با مظنه‌های سایر منابع مصادف نباشد. منابع شخص ثالث را فقط می‌توان به عنوان ابزارهای کمکی در نظر گرفت و نمی‌توان از آنها برای تأیید مظنه‌ها استفاده کرد.</p>",
   "$faq@-5-q-10": "همچنان سؤالی دارید؟ با ما در ارتباط باشید",
   "$faq@-5-a-10": "<p>از <a class=\"open-chat-button\">گفتگوی آنلاین پشتیبانی از مشتری ما کمک بگیرید </a> یا به آدرس <a href=\"mailto:support@binarium.com\">support@binarium.com</a> ایمیل بفرستید تا پاسخگویی از طریق تماس با شما را درخواست کنید. ما در طی مدت یک ساعت (در محدوده ساعات کاری پشتیبانی از مشتری) با شما تماس می‌گیریم.</p>",
-  "$faq@-6-title": "Educational videos"
+  "$faq@-6-title": "Educational videos",
+  "$email-collect@title": "We would like to collect your email",
+  "$email-collect@text": "We process personal data in accordance with <a href=\"/main/client-agreement\">Client agreement</a> and <a href=\"/main/privacy\">Privacy policy</a>.<br><br>Collecting your email helps us to protect your account. You may receive emails from us and can opt out any time.",
+  "$email-collect@checkbox": "I give permission to collect my email for the above mentioned purposes",
+  "$email-collect@button": "submit"
 }

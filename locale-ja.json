@@ -160,5 +160,9 @@
   "$faq@-5-a-9": "<p>考えられる理由は次のとおりです。</p><ul><li>さまざまな情報ソースによって、クウォートはわずかに異なる場合があります。</li><li>FOREXのクウォートは、ビッド（買い値）とアスク（売り値）として表示されます。Binariumは、（ビッド+アスク）÷2 の計算式にしたがって平均クウォートを表示しています。</li><li>クウォートは、わずかな時間差により、小数点以下4〜5桁で異なる場合があります。</li></ul><p>お客様は、ご登録時にBinariumのクウォートが優先されることに同意することとします（他のリソースのクウォートと一致しない場合があります）。サードパーティのリソースは補助ツールとして使用できますが、クウォートの​​検証には使用できません。</p>",
   "$faq@-5-q-10": "その他ご質問がある場合、お気軽にお問い合わせください。",
   "$faq@-5-a-10": "<p><a class=\"open-chat-button\">オンラインカスタマーサポートチャット</a>にご相談いただくか、 <a href=\"mailto:support@binarium.com\">support@binarium.com</a>までメールにてお問い合わせください。もしくは、メールにてリクエストを頂ければ、約1時間以内（カスタマーサポートの営業時間内）に折り返しお電話を差し上げることも可能です。</p>",
-  "$faq@-6-title": "Educational videos"
+  "$faq@-6-title": "Educational videos",
+  "$email-collect@title": "We would like to collect your email",
+  "$email-collect@text": "We process personal data in accordance with <a href=\"/main/client-agreement\">Client agreement</a> and <a href=\"/main/privacy\">Privacy policy</a>.<br><br>Collecting your email helps us to protect your account. You may receive emails from us and can opt out any time.",
+  "$email-collect@checkbox": "I give permission to collect my email for the above mentioned purposes",
+  "$email-collect@button": "submit"
 }
