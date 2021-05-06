@@ -161,8 +161,8 @@
   "$faq@-5-q-10": "หากยังมีคำถาม ติดต่อกับพวกเรา",
   "$faq@-5-a-10": "<p>รับความช่วยเหลือจาก<a class=\"open-chat-button\">แชทสนับสนุนลูกค้าออนไลน์</a> หรือส่งอีเมลถึงเราที่<a href=\"mailto:thailand@binarium.com\">thailand@binarium.com</a> เพื่อขอให้โทรกลับ เราจะติดต่อคุณภายในหนึ่งชั่วโมง (ในช่วงเวลาทำการของฝ่ายบริการลูกค้า)</p>",
   "$faq@-6-title": "วีดีโอเพื่อการเรียนรู้",
-  "$email-collect@title": "We would like to collect your email",
-  "$email-collect@text": "We process personal data in accordance with <a href=\"/main/client-agreement\">Client agreement</a> and <a href=\"/main/privacy\">Privacy policy</a>.<br><br>Collecting your email helps us to protect your account. You may receive emails from us and can opt out any time.",
-  "$email-collect@checkbox": "I give permission to collect my email for the above mentioned purposes",
-  "$email-collect@button": "submit"
+  "$email-collect@title": "เราต้องการจัดเก็บอีเมลของคุณ",
+  "$email-collect@text": "เราดำเนินการในส่วนของข้อมูลส่วนบุคคลให้สอดคล้องตาม <a href=\"/main/client-agreement\"> ข้อตกลงของลูกค้า </a> และ <a href=\"/main/privacy\"> นโยบายความเป็นส่วนตัว </a> <br> <br > การจัดเก็บอีเมลของคุณช่วยให้เราสามารถปกป้องบัญชีของคุณได้ คุณอาจได้รับอีเมลจากเราและสามารถเลือกไม่รับได้ตลอดเวลา",
+  "$email-collect@checkbox": "ฉันยินยอมให้จัดเก็บอีเมลของฉันเพื่อวัตถุประสงค์ดังกล่าวข้างต้น",
+  "$email-collect@button": "ยอมรับ"
 }
