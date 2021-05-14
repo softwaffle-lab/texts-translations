@@ -160,5 +160,9 @@
   "$faq@-5-a-9": "<p>Kemungkinan alasannya meliputi:</p><ul><li>kuotasi dari sumber yang berbeda mungkin sedikit berbeda; </li><li>kuotasi FOREX ditampilkan sebagai Bid (harga permintaan) dan Ask (harga penawaran); Binarium menampilkan kuotasi rata-rata, yang dihitung berdasarkan (Bid+Ask)÷2;</li><li>perbedaan kecil saat kuotasi diterima dapat menyebabkan perbedaan di tempat desimal ke-4 hingga ke-5.</li></ul><p>Saat mendaftar, Anda menerima bahwa kuotasi Binarium memiliki prioritas. Mungkin tidak sesuai dengan kuotasi dari sumber lain. Sumber daya pihak ketiga hanya dapat dianggap sebagai alat bantu dan tidak dapat digunakan untuk memverifikasi kuotasi.</p>",
   "$faq@-5-q-10": "Masih punya pertanyaan? Hubungi kami",
   "$faq@-5-a-10": "<p>Dapatkan bantuan dari <a class=\"open-chat-button\">obrolan dukungan pelanggan online</a> kami atau kirim email kepada kami ke <a href=\"mailto:support@binarium.com\">support@binarium.com</a> untuk meminta panggilan balik. Kami akan menghubungi Anda dalam waktu satu jam (selama jam kerja dukungan pelanggan).</p>",
-  "$faq@-6-title": "Video edukasi"
+  "$faq@-6-title": "Video edukasi",
+  "$email-collect@title": "We would like to collect your email",
+  "$email-collect@text": "We process personal data in accordance with <a href=\"/main/client-agreement\">Client agreement</a> and <a href=\"/main/privacy\">Privacy policy</a>.<br><br>Collecting your email helps us to protect your account. You may receive emails from us and can opt out any time.",
+  "$email-collect@checkbox": "I give permission to collect my email for the above mentioned purposes",
+  "$email-collect@button": "submit"
 }
