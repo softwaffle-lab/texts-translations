@@ -161,8 +161,8 @@
   "$faq@-5-q-10": "Masih punya pertanyaan? Hubungi kami",
   "$faq@-5-a-10": "<p>Dapatkan bantuan dari <a class=\"open-chat-button\">obrolan dukungan pelanggan online</a> kami atau kirim email kepada kami ke <a href=\"mailto:support@binarium.com\">support@binarium.com</a> untuk meminta panggilan balik. Kami akan menghubungi Anda dalam waktu satu jam (selama jam kerja dukungan pelanggan).</p>",
   "$faq@-6-title": "Video edukasi",
-  "$email-collect@title": "We would like to collect your email",
-  "$email-collect@text": "We process personal data in accordance with <a href=\"/main/client-agreement\">Client agreement</a> and <a href=\"/main/privacy\">Privacy policy</a>.<br><br>Collecting your email helps us to protect your account. You may receive emails from us and can opt out any time.",
-  "$email-collect@checkbox": "I give permission to collect my email for the above mentioned purposes",
-  "$email-collect@button": "submit"
+  "$email-collect@title": "Kami perlu meminta email Anda",
+  "$email-collect@text": "Kami memproses data pribadi sesuai dengan <a href=\"/main/client-agreement\">Persetujuan Klien</a> dan <a href=\"/main/privacy\">Kebijakan Privasi</a>.<br><br>Mengumpulkan email Anda membantu kami melindungi akun Anda. Anda mungkin akan menerima email dari kami dan dapat membatalkan kapan saja.",
+  "$email-collect@checkbox": "Saya memberikan izin atas penggunaan email saya untuk tujuan yang disebutkan di atas",
+  "$email-collect@button": "kirim"
 }
