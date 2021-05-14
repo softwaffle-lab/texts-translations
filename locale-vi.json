@@ -161,8 +161,8 @@
   "$faq@-5-q-10": "Still have questions? Get in touch with us",
   "$faq@-5-a-10": "<p>Get help from our <a class=\"open-chat-button\">online customer support chat</a> or email us at <a href=\"mailto:support@binarium.com\">support@binarium.com</a> to request a callback. We'll contact you within an hour (during customer support operating hours).</p>",
   "$faq@-6-title": "Educational videos",
-  "$email-collect@title": "We would like to collect your email",
-  "$email-collect@text": "We process personal data in accordance with <a href=\"/main/client-agreement\">Client agreement</a> and <a href=\"/main/privacy\">Privacy policy</a>.<br><br>Collecting your email helps us to protect your account. You may receive emails from us and can opt out any time.",
-  "$email-collect@checkbox": "I give permission to collect my email for the above mentioned purposes",
-  "$email-collect@button": "submit"
+  "$email-collect@title": "Chúng tôi muốn thu thập địa chỉ email của bạn",
+  "$email-collect@text": "Chúng tôi tiến hành xử lý các dữ liệu cá nhân tùy theo <a href=\"/main/client-agreement\">Sự đồng tình của khách hàng</a> và <a href=\"/main/privacy\">Chính sách về quyền riêng tư</a>.<br><br>Việc thu thập email của bạn sẽ giúp chúng tôi bảo vệ tài khoản của bạn. Bạn sẽ nhận được email của chúng tôi được gửi đi từ Mỹ và có thể đưa ra quyết định bất cứ lúc nào.",
+  "$email-collect@checkbox": "Tôi sẽ cho bạn quyền để thu thập email của tôi vì mục đích như đã được nêu ở trên",
+  "$email-collect@button": "nộp"
 }
