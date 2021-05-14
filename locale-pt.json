@@ -160,5 +160,9 @@
   "$faq@-5-a-9": "<p>Possíveis razões para isso incluem:</p><ul><li> cotação de diferentes fontes podem variar um pouco.</li><li>Cotações da FOREX são alteradas pelos preços de Lances (preço de demanda) e Venda (preço de oferta); A Binarium mostra a média, que é calculada como (Lances+Venda)÷2;</li><li> uma pequena diferença no tempo quando as cotações são recebidas podem causar diferenças na 4ª e 5ª casas decimais. </li></ul><p>Ao se registrar, você aceita que as cotações na Binarium têm prioridade. Elas podem não coincidir com as cotações de outras fontes. Fontes de terceiros só podem ser considerados como ferramentas auxiliares e não podem ser usadas para verificar cotações.</p>",
   "$faq@-5-q-10": "Ainda tem perguntas? Entre em contato conosco!",
   "$faq@-5-a-10": "<p>Receba assistência do nosso <a class=\"open-chat-button\">chat de atendimento ao cliente</a> ou envie um e-mail para <a href=\"mailto:support@binarium.com\">support@binarium.com</a> para pedir uma ligação de retorno. Entraremos em contato dentro de uma hora (apenas durante as horas de atendimento ao cliente).</p>",
-  "$faq@-6-title": "Educational videos"
+  "$faq@-6-title": "Educational videos",
+  "$email-collect@title": "We would like to collect your email",
+  "$email-collect@text": "We process personal data in accordance with <a href=\"/main/client-agreement\">Client agreement</a> and <a href=\"/main/privacy\">Privacy policy</a>.<br><br>Collecting your email helps us to protect your account. You may receive emails from us and can opt out any time.",
+  "$email-collect@checkbox": "I give permission to collect my email for the above mentioned purposes",
+  "$email-collect@button": "submit"
 }
