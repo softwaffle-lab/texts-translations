@@ -160,5 +160,9 @@
   "$faq@-5-a-9": "<p>Причины могут быть следующими:</p><ul><li>котировки поступают из разных источников и могут незначительно отличаться;</li><li>котировки на FOREX представлены в формате Bid (цена спроса) и Ask (цена предложения); в Binarium отображается средняя котировка, которая рассчитывается по формуле: (Bid+Ask)÷2;</li><li>небольшая разница во времени поступления котировок может стать причиной их отличия в 4-5 знаке после запятой.</li></ul><p>При регистрации вы соглашаетесь с тем, что именно котировки от компании Binarium имеют приоритетное значение. Они могут не совпадать с котировками других ресурсов. Сторонние ресурсы могут рассматриваться только как вспомогательный инструмент, но не могут использоваться для сверки котировок.</p>",
   "$faq@-5-q-10": "У меня остались вопросы",
   "$faq@-5-a-10": "<p>Воспользуйтесь <a class=\"open-chat-button\">онлайн-чатом</a> или напишите нам письмо на адрес <a href=\"mailto:support@binarium.com\">support@binarium.com</a> с просьбой об обратном звонке. Служба поддержки свяжется с вами в течение часа в рабочее время.</p>",
-  "$faq@-6-title": "Обучающие видео"
+  "$faq@-6-title": "Обучающие видео",
+  "$email-collect@title": "We would like to collect your email",
+  "$email-collect@text": "We process personal data in accordance with <a href=\"/main/client-agreement\">Client agreement</a> and <a href=\"/main/privacy\">Privacy policy</a>.<br><br>Collecting your email helps us to protect your account. You may receive emails from us and can opt out any time.",
+  "$email-collect@checkbox": "I give permission to collect my email for the above mentioned purposes",
+  "$email-collect@button": "submit"
 }
