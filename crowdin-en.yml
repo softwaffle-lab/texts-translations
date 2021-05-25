@@ -2,7 +2,4 @@ preserve_hierarchy: true
 files:
   - source: /locale-en.json
     translation: /locale-%two_letters_code%.json
-    dest: /locale-en.csv
-    type: csv
-    scheme: 'identifier,source_or_translation'
     first_line_contains_header: true
