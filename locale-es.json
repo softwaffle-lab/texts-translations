@@ -173,7 +173,7 @@
   "$verification@email@title": "Correo",
   "$verification@email@info": "Revise su correo electrónico: le enviamos un mensaje con un enlace de confirmación. Haga clic en ese enlace para confirmar su dirección de correo electrónico.",
   "$verification@email@confirmed": "Su correo electrónico se ha confirmado correctamente",
-  "$verification@email@not-received": "<h2>Didn't receive the message?</h2><p>Check you entered the right address above and click the button below:</p>",
+  "$verification@email@not-received": "<h2>¿No recibió el mensaje?</h2><p>Verifique que haya ingresado la dirección correcta arriba y haga clic en el botón de abajo:</p>",
   "$verification@email@send-again": "Send the message again",
   "$verification@email@has-been-sent": "<p>The message containing the link has been sent. Check your mail and follow the confirmation link.</p>",
   "$verification@email@next-error": "A new message can be sent in {{ nextEmail }} minutes. To activate your account, please verify your email or contact support.",
