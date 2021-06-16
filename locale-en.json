@@ -111,7 +111,7 @@
   "$faq@-3-q-0": "Minimum withdrawal amount",
   "$faq@-3-a-0": "<p>For most payment methods, the minimum withdrawal amount is {{@minWithdrawalSum}} or the equivalent in the currency of your account. Please note that the minimum withdrawal amount may vary depending on the payment system you use.</p>",
   "$faq@-3-q-1": "Maximum withdrawal amount",
-  "$faq@-3-a-1": "<p>For most payment methods, the maximum withdraw amount is {{@maxWithdrawalSum}} or the equivalent in the currency of your account. Please note that the maximum withdrawal amount may vary depending on the payment system you use. Detailed information on each payment system's restrictions can be found in the Cash Register section. Restrictions are set to allow getting funds as quickly as possible.</p>",
+  "$faq@-3-a-1": "<p>Для большинства платежных систем максимальная сумма вывода составляет {{@maxWithdrawalSum}} или эквивалентная сумма в валюте счета. Обратите внимание, что максимальная сумма вывода может варьироваться в зависимости от выбранной платежной системы. Детальную информацию об ограничениях каждой платежной системы можно найти в кассе. Ограничения установлены для возможности максимально быстро получить средства.</p>",
   "$faq@-3-q-2": "No deposit and withdrawal fees",
   "$faq@-3-a-2": "<p>More than this. We cover your payment system fees when you top up your account or withdraw funds.</p><p>However, if your trading volume (the sum of all your trades) isn't at least twice as big as your deposit, we may not cover the 10% fee of the requested withdrawal amount.</p>",
   "$faq@-3-q-3": "It takes 1 hour to process withdrawal request",
