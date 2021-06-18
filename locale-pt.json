@@ -139,7 +139,7 @@
   "$faq@-4-a-4": "<p>Receba auxílio do nosso <a class=\"open-chat-button\">chat de atendimento ao cliente</a> ou envie um e-mail para <a href=\"mailto:support@binarium.com\">support@binarium.com</a> para pedir uma ligação de retorno. Entraremos em contato dentro de uma hora (apenas durante as horas de atendimento ao cliente).</p>",
   "$faq@-5-title": "Traades, ativos e <span>cotações</span>",
   "$faq@-5-q-0": "Montante de negociação máximo",
-  "$faq@-5-a-0": "<p>{{{@maxDealSum}} ou um valor equivalente na moeda da sua conta. Dependendo do tipo de conta, até 20 negociações do valor máximo podem ser abertas de uma vez. Mais informações sobre os tipos de conta e seus recursos podem ser encontradas <a href=\"/main/cashbox/account-types\">aqui</a>.</p>",
+  "$faq@-5-a-0": "<p>{{@maxDealSum}} ou um valor equivalente na moeda da sua conta. Dependendo do tipo de conta, até 20 negociações do valor máximo podem ser abertas de uma vez. Mais informações sobre os tipos de conta e seus recursos podem ser encontradas <a href=\"/main/cashbox/account-types\">aqui</a>.</p>",
   "$faq@-5-q-1": "Montante de negociação mínimo",
   "$faq@-5-a-1": "<p>O valor da negociação não pode ser menor que {{@minDealSum}} ou o valor equivalente na moeda da sua conta.</p>",
   "$faq@-5-q-2": "Como eu realizo uma operação?",
