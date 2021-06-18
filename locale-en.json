@@ -141,7 +141,7 @@
   "$faq@-5-q-0": "Maximum trade amount",
   "$faq@-5-a-0": "<p>{{@maxDealSum}} or an equivalent amount in your account currency. Depending on the account type, up to 20 trades in the maximum amount can be opened simultaneously. More information about account types and their features can be found <a href=\"/main/cashbox/account-types\">here</a>.</p>",
   "$faq@-5-q-1": "Minimum trade amount",
-  "$faq@-5-a-1": "<p>Сумма сделки не может быть меньше {{@minDealSum}} или эквивалентной суммы в валюте вашего счета.</p>",
+  "$faq@-5-a-1": "<p>The trade amount can't be less than {{@minDealSum}} or the equivalent amount in your account currency.</p>",
   "$faq@-5-q-2": "How do I make a trade?",
   "$faq@-5-a-2": "<p>Select an asset, expiration time and investment amount. Then decide on the price dynamics. If you expect the value of the asset to increase, click the green Call button. To bet on the price decrease, click the red Put button.</p><p>Please note that on Binarium systematic use of the Martingale strategy (doubling up trade size) is strictly prohibited. Violations of this rule may result in the trades deemed as invalid and your account blocked.</p>",
   "$faq@-5-q-3": "Trade history",
