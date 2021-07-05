@@ -299,7 +299,7 @@
   "$tournament@props@max-deal-size": "Maximum trade amount",
   "$tournament@props@max-simultaneously-open-deals": "Open trade limit",
   "$tournament@props@max-amount-of-open-deals": "Investment limit",
-  "$tournament@props@available-options-types": "Доступные опционы",
+  "$tournament@props@available-options-types": "Available options",
   "$asset@binary-cap": "5+ min",
   "$asset@turbo-cap": "1—5 min",
   "$days@short": "d.",
