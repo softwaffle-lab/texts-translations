@@ -271,6 +271,7 @@
   "$asset@categories@commodities": "Commodities",
   "$asset@categories@indices": "Indices",
   "$asset@categories@stocks": "Stocks",
+  "$tournament@menu": "Contests",
   "$tournament@tab@current": "Current",
   "$tournament@tab@future": "Coming soon",
   "$tournament@tab@archive": "Archive",
@@ -282,8 +283,9 @@
   "$tournament@btn@paid-participate": "Join the Contest {{@price}}",
   "$tournament@btn@free-participate": "Join the tournament for free",
   "$tournament@btn@read-more": "Read more",
-  "tournament@rops@prize-fund": "Prize fund",
-  "tournament@rops@prize-places": "Top places",
-  "tournament@timer$start": "Contest starts in",
-  "tournament@timer$end": "Contest ends in"
+  "$tournament@props@prize-fund": "Prize fund",
+  "$tournament@props@prize-places": "Top places",
+  "$tournament@timer$start": "Contest starts in",
+  "$tournament@timer$end": "Contest ends in",
+  "$days@short": "d."
 }
