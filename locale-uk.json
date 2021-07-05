@@ -225,6 +225,7 @@
   "$verification@error@size": "Розмір файлу перевищує допустимий 1 МБ.",
   "$verification@error@format": "Неправильний формат файлу. Ми приймаємо формати jpg, png, pdf та tiff.",
   "$verification@error@file": "Помилка завантаження файлу",
+  "$verification@error@limit": "Превышен лимит на загрузку документов. Напишите нам письмо на адрес support@binarium.com с просьбой об увеличении лимита.",
   "$verification@example": "Зразок",
   "$verification@status@uploaded-p": "Завантажені",
   "$verification@status@uploaded-m": "Завантажений",
