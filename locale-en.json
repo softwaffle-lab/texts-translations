@@ -270,5 +270,20 @@
   "$asset@categories@crypto": "Crypto",
   "$asset@categories@commodities": "Commodities",
   "$asset@categories@indices": "Indices",
-  "$asset@categories@stocks": "Stocks"
+  "$asset@categories@stocks": "Stocks",
+  "$tournament@tab@current": "Current",
+  "$tournament@tab@future": "Coming soon",
+  "$tournament@tab@archive": "Archive",
+  "$tournament@empty@current": "No active tournaments right now. But they're just about to pop up.<br><br>Check the \"Coming soon\" tab in the menu above and keep an eye on the platform's news and e-mails.",
+  "$tournament@empty@future": "There are no future contests that are scheduled. Please follow our news feed and watch for newsletters.",
+  "$tournament@empty@archive": "No ended contests",
+  "$tournament@btn@participate": "Entry fee",
+  "$tournament@btn@free": "free",
+  "$tournament@btn@paid-participate": "Join the Contest {{@price}}",
+  "$tournament@btn@free-participate": "Join the tournament for free",
+  "$tournament@btn@read-more": "Read more",
+  "tournament@rops@prize-fund": "Prize fund",
+  "tournament@rops@prize-places": "Top places",
+  "tournament@timer$start": "Contest starts in",
+  "tournament@timer$end": "Contest ends in"
 }
