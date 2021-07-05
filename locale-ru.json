@@ -271,6 +271,7 @@
   "$asset@categories@commodities": "Сырьё",
   "$asset@categories@indices": "Индексы",
   "$asset@categories@stocks": "Акции",
+  "$tournament@menu": "Турниры",
   "$tournament@tab@current": "Сейчас",
   "$tournament@tab@future": "Скоро",
   "$tournament@tab@archive": "Архив",
@@ -282,8 +283,9 @@
   "$tournament@btn@paid-participate": "Принять участие в турнире {{@price}}",
   "$tournament@btn@free-participate": "Участвовать в турнире бесплатно",
   "$tournament@btn@read-more": "Подробнее",
-  "tournament@rops@prize-fund": "Призовой фонд",
-  "tournament@rops@prize-places": "Призовые места",
-  "tournament@timer$start": "До начала турнира",
-  "tournament@timer$end": "До окончания турнира"
+  "$tournament@props@prize-fund": "Призовой фонд",
+  "$tournament@props@prize-places": "Призовые места",
+  "$tournament@timer$start": "До начала турнира",
+  "$tournament@timer$end": "До окончания турнира",
+  "$days@short": "д."
 }
