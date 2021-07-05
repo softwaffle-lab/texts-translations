@@ -109,7 +109,7 @@
   "$faq@-2-a-7": "<p>Get help from our <a class=\"open-chat-button\">online customer support chat</a> or email us at <a href=\"mailto:support@binarium.com\">support@binarium.com</a> to request a callback. We'll contact you within an hour (during customer support operating hours).</p>",
   "$faq@-3-title": "<span>Withdrawals</span>",
   "$faq@-3-q-0": "Minimum withdrawal amount",
-  "$faq@-3-a-0": "<p>Для большинства платежных систем минимальная сумма вывода составляет {{@minWithdrawalSum}} или эквивалентная сумма в валюте вашего счета. Обратите внимание, что минимальная сумма вывода может меняться в зависимости от выбранной платежной системы.</p>",
+  "$faq@-3-a-0": "<p>For most payment methods, the minimum withdrawal amount is {{@minWithdrawalSum}} or the equivalent in the your account currency. Please note that the minimum withdrawal amount may vary depending on the payment system you use.</p>",
   "$faq@-3-q-1": "Maximum withdrawal amount",
   "$faq@-3-a-1": "<p>For most payment methods, the maximum withdraw amount is {{@maxWithdrawalSum}} or the equivalent in the currency of your account. Please note that the maximum withdrawal amount may vary depending on the payment system you use. Detailed information on each payment system's restrictions can be found in the Cash Register section. Restrictions are set to allow getting funds as quickly as possible.</p>",
   "$faq@-3-q-2": "No deposit and withdrawal fees",
