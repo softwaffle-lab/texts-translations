@@ -270,5 +270,20 @@
   "$asset@categories@crypto": "Crypto",
   "$asset@categories@commodities": "Commodities",
   "$asset@categories@indices": "Indices",
-  "$asset@categories@stocks": "Stocks"
+  "$asset@categories@stocks": "Stocks",
+  "$tournament@tab@current": "Сейчас",
+  "$tournament@tab@future": "Скоро",
+  "$tournament@tab@archive": "Архив",
+  "$tournament@empty@current": "Активных турниров в данный момент нет, но скоро они обязательно появятся.<br><br>Проверьте вкладку «Скоро» в меню выше и следите за новостями платформы и почтовыми рассылками.",
+  "$tournament@empty@future": "Будущих турниров нет. Пожалуйста, следите за новостями и почтовыми рассылками.",
+  "$tournament@empty@archive": "Нет завершенных турниров",
+  "$tournament@btn@participate": "Участие",
+  "$tournament@btn@free": "бесплатно",
+  "$tournament@btn@paid-participate": "Принять участие в турнире {{@price}}",
+  "$tournament@btn@free-participate": "Участвовать в турнире бесплатно",
+  "$tournament@btn@read-more": "Подробнее",
+  "tournament@rops@prize-fund": "Призовой фонд",
+  "tournament@rops@prize-places": "Призовые места",
+  "tournament@timer$start": "До начала турнира",
+  "tournament@timer$end": "До окончания турнира"
 }
