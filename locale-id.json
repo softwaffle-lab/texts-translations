@@ -225,6 +225,7 @@
   "$verification@error@size": "Ukuran file melampaui ukuran 1Mb yang diizinkan.",
   "$verification@error@format": "Formal file salah. Kami dapat menerima jpg, png, pdf, atau tiff.",
   "$verification@error@file": "Unggah file eror",
+  "$verification@error@limit": "The document upload limit has been exceeded. You can request to increase the limit by e-mailing us at support@binarium.com",
   "$verification@example": "Contoh",
   "$verification@status@uploaded-p": "Diunggah",
   "$verification@status@uploaded-m": "Diunggah",
@@ -289,6 +290,7 @@
   "$tournament@props@prize-places": "Posisi teratas",
   "$tournament@timer$start": "Kontes dimulai dalam",
   "$tournament@timer$end": "Kontes berakhir dalam",
+  "$tournament@timer$ended": "Contest has ended",
   "$tournament@rules": "Peraturan untuk mengikuti kontes.",
   "$tournament@tab$restrictions": "Syarat dan Ketentuan",
   "$tournament@tab$rating": "Peringkat peserta",
@@ -304,5 +306,7 @@
   "$asset@turbo-cap": "1—5 mnt",
   "$days@short": "h.",
   "$timer@begin-time": "Mulai",
-  "$timer@finish-time": "Selesai"
+  "$timer@finish-time": "Selesai",
+  "$tr@video@title": "Trading room",
+  "$tr@video@text": "Get support from professional traders"
 }
