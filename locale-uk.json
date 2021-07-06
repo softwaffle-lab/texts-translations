@@ -225,7 +225,7 @@
   "$verification@error@size": "Розмір файлу перевищує допустимий 1 МБ.",
   "$verification@error@format": "Неправильний формат файлу. Ми приймаємо формати jpg, png, pdf та tiff.",
   "$verification@error@file": "Помилка завантаження файлу",
-  "$verification@error@limit": "Превышен лимит на загрузку документов. Напишите нам письмо на адрес support@binarium.com с просьбой об увеличении лимита.",
+  "$verification@error@limit": "Перевищено ліміт на завантаження документів. Напишіть нам лист на адресу support@binarium.com з проханням про збільшення ліміту.",
   "$verification@example": "Зразок",
   "$verification@status@uploaded-p": "Завантажені",
   "$verification@status@uploaded-m": "Завантажений",
@@ -290,7 +290,7 @@
   "$tournament@props@prize-places": "Призові місця",
   "$tournament@timer$start": "До початку турніру",
   "$tournament@timer$end": "До закінчення турніру",
-  "$tournament@timer$ended": "Турнир завершён",
+  "$tournament@timer$ended": "Турнір завершено",
   "$tournament@rules": "Правила участі в турнірі",
   "$tournament@tab$restrictions": "Умови",
   "$tournament@tab$rating": "Рейтинг учасників",
@@ -307,6 +307,6 @@
   "$days@short": "д.",
   "$timer@begin-time": "Початок",
   "$timer@finish-time": "Завершення",
-  "$tr@video@title": "Торговая комната",
-  "$tr@video@text": "Заручитесь поддержкой профессиональных трейдеров"
+  "$tr@video@title": "Торгова кімната",
+  "$tr@video@text": "Заручіться підтримкою професійних трейдерів"
 }
