@@ -225,6 +225,7 @@
   "$verification@error@size": "Розмір файлу перевищує допустимий 1 МБ.",
   "$verification@error@format": "Неправильний формат файлу. Ми приймаємо формати jpg, png, pdf та tiff.",
   "$verification@error@file": "Помилка завантаження файлу",
+  "$verification@error@limit": "Перевищено ліміт на завантаження документів. Напишіть нам лист на адресу support@binarium.com з проханням про збільшення ліміту.",
   "$verification@example": "Зразок",
   "$verification@status@uploaded-p": "Завантажені",
   "$verification@status@uploaded-m": "Завантажений",
@@ -280,8 +281,8 @@
   "$tournament@empty@archive": "Немає завершених турнірів",
   "$tournament@btn@participate": "Участь",
   "$tournament@btn@to-participate": "Взяти участь",
-  "$tournament@btn@price": "взнос",
-  "$tournament@btn@free": "бесплатно",
+  "$tournament@btn@price": "внесок",
+  "$tournament@btn@free": "безкоштовно",
   "$tournament@btn@paid-participate": "Прийняти участь у турнірі {{@price}}",
   "$tournament@btn@free-participate": "Брати участь в турнірі безкоштовно",
   "$tournament@btn@read-more": "Детальніше",
@@ -289,6 +290,7 @@
   "$tournament@props@prize-places": "Призові місця",
   "$tournament@timer$start": "До початку турніру",
   "$tournament@timer$end": "До закінчення турніру",
+  "$tournament@timer$ended": "Турнір завершено",
   "$tournament@rules": "Правила участі в турнірі",
   "$tournament@tab$restrictions": "Умови",
   "$tournament@tab$rating": "Рейтинг учасників",
@@ -304,5 +306,7 @@
   "$asset@turbo-cap": "1—5 хв.",
   "$days@short": "д.",
   "$timer@begin-time": "Початок",
-  "$timer@finish-time": "Завершення"
+  "$timer@finish-time": "Завершення",
+  "$tr@video@title": "Торгова кімната",
+  "$tr@video@text": "Заручіться підтримкою професійних трейдерів"
 }
