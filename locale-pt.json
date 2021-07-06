@@ -225,6 +225,7 @@
   "$verification@error@size": "O tamanho do arquivo excede o tamanho permitido de 1Mb.",
   "$verification@error@format": "Formato de arquivo inválido. Aceitamos jpg, png, pdf ou tiff.",
   "$verification@error@file": "Erro no upload do arquivo",
+  "$verification@error@limit": "The document upload limit has been exceeded. You can request to increase the limit by e-mailing us at support@binarium.com",
   "$verification@example": "Exemplo",
   "$verification@status@uploaded-p": "Enviado",
   "$verification@status@uploaded-m": "Enviado",
@@ -289,6 +290,7 @@
   "$tournament@props@prize-places": "Primeiros lugares",
   "$tournament@timer$start": "O concurso começa em",
   "$tournament@timer$end": "O concurso termina em",
+  "$tournament@timer$ended": "Contest has ended",
   "$tournament@rules": "Regras para participar no concurso.",
   "$tournament@tab$restrictions": "Termos e Condições",
   "$tournament@tab$rating": "Classificação do participante",
@@ -304,5 +306,7 @@
   "$asset@turbo-cap": "1 a 5 min.",
   "$days@short": "d.",
   "$timer@begin-time": "Começa",
-  "$timer@finish-time": "Terminar"
+  "$timer@finish-time": "Terminar",
+  "$tr@video@title": "Trading room",
+  "$tr@video@text": "Get support from professional traders"
 }
