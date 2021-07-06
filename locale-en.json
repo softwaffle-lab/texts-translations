@@ -290,7 +290,7 @@
   "$tournament@props@prize-places": "Top places",
   "$tournament@timer$start": "Contest starts in",
   "$tournament@timer$end": "Contest ends in",
-  "$tournament@timer$ended": "Турнир завершён",
+  "$tournament@timer$ended": "Contest has ended",
   "$tournament@rules": "Rules for participating in the contest.",
   "$tournament@tab$restrictions": "Terms and Conditions",
   "$tournament@tab$rating": "Participant ranking",
@@ -307,6 +307,6 @@
   "$days@short": "d.",
   "$timer@begin-time": "Begins",
   "$timer@finish-time": "Finish",
-  "$tr@video@title": "Торговая комната",
+  "$tr@video@title": "Trading room",
   "$tr@video@text": "Заручитесь поддержкой профессиональных трейдеров"
 }
