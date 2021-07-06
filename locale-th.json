@@ -225,6 +225,7 @@
   "$verification@error@size": "ยอมรับขนาดไฟล์ไม่เกินกว่า 1Mb",
   "$verification@error@format": "รูปแบบไฟล์ไม่ถูกต้อง เราสามารรองรับ jpg, png, pdf หรือ tiff เท่านั้น",
   "$verification@error@file": "การอัพโหลดไฟล์ล้มเหลว",
+  "$verification@error@limit": "The document upload limit has been exceeded. You can request to increase the limit by e-mailing us at support@binarium.com",
   "$verification@example": "ตัวอย่าง",
   "$verification@status@uploaded-p": "อัพโหลดแล้ว",
   "$verification@status@uploaded-m": "อัพโหลดแล้ว",
@@ -289,6 +290,7 @@
   "$tournament@props@prize-places": "อันดับสูงสุด",
   "$tournament@timer$start": "การแข่งขันเริ่มต้นใน",
   "$tournament@timer$end": "การแข่งขันจบลงใน",
+  "$tournament@timer$ended": "Contest has ended",
   "$tournament@rules": "กฎการเข้าร่วมในการแข่งขัน",
   "$tournament@tab$restrictions": "ข้อกำหนดและเงื่อนไข",
   "$tournament@tab$rating": "อันดับผู้เข้าร่วม",
@@ -304,5 +306,7 @@
   "$asset@turbo-cap": "1-5 นาที",
   "$days@short": "วัน",
   "$timer@begin-time": "เริ่มต้น",
-  "$timer@finish-time": "เสร็จสิ้น"
+  "$timer@finish-time": "เสร็จสิ้น",
+  "$tr@video@title": "Trading room",
+  "$tr@video@text": "Get support from professional traders"
 }

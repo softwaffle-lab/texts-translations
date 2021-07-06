@@ -225,6 +225,7 @@
   "$verification@error@size": "Kích cỡ tập tin vượt quá giới hạn cho phép là 1Mb.",
   "$verification@error@format": "Định dạng tập tin không hợp lệ. Chúng tôi có thể chấp nhận jpg, png, pdf hoặc tiff.",
   "$verification@error@file": "Lỗi tải lên tập tin",
+  "$verification@error@limit": "The document upload limit has been exceeded. You can request to increase the limit by e-mailing us at support@binarium.com",
   "$verification@example": "Ví dụ",
   "$verification@status@uploaded-p": "Đã tải lên",
   "$verification@status@uploaded-m": "Đã tải lên",
@@ -289,6 +290,7 @@
   "$tournament@props@prize-places": "Hàng đầu",
   "$tournament@timer$start": "Cuộc thi bắt đầu trong",
   "$tournament@timer$end": "Cuộc thi kết thúc trong",
+  "$tournament@timer$ended": "Contest has ended",
   "$tournament@rules": "Quy định tham gia cuộc thi.",
   "$tournament@tab$restrictions": "Điều khoản và Điều kiện",
   "$tournament@tab$rating": "Xếp hạng người tham gia",
@@ -304,5 +306,7 @@
   "$asset@turbo-cap": "1—5 phút",
   "$days@short": "ng",
   "$timer@begin-time": "Bắt đầu",
-  "$timer@finish-time": "Hoàn thành"
+  "$timer@finish-time": "Hoàn thành",
+  "$tr@video@title": "Trading room",
+  "$tr@video@text": "Get support from professional traders"
 }
