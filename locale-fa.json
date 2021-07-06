@@ -225,6 +225,7 @@
   "$verification@error@size": "اندازه فایل بیشتر از اندازه مجاز 1 مگابایت است.",
   "$verification@error@format": "فرمت فایل نامعتبر است. ما فرمت‌های jpg، png، pdf یا tiff را قبول می‌کنیم.",
   "$verification@error@file": "خطای آپلود فایل",
+  "$verification@error@limit": "The document upload limit has been exceeded. You can request to increase the limit by e-mailing us at support@binarium.com",
   "$verification@example": "نمونه",
   "$verification@status@uploaded-p": "آپلود شده",
   "$verification@status@uploaded-m": "آپلود شده",
@@ -289,6 +290,7 @@
   "$tournament@props@prize-places": "جایگاه‌های برتر",
   "$tournament@timer$start": "رقابت در این تاریخ شروع آغاز می شود",
   "$tournament@timer$end": "رقابت در این تاریخ تمام می شود",
+  "$tournament@timer$ended": "Contest has ended",
   "$tournament@rules": "قوانین شرکت در رقابت.",
   "$tournament@tab$restrictions": "شرایط و ضوابط",
   "$tournament@tab$rating": "رتبه شرکت‌کننده",
@@ -304,5 +306,7 @@
   "$asset@turbo-cap": "1—5 دقیقه",
   "$days@short": "ر.",
   "$timer@begin-time": "شروع می‌شود",
-  "$timer@finish-time": "تمام کردن"
+  "$timer@finish-time": "تمام کردن",
+  "$tr@video@title": "Trading room",
+  "$tr@video@text": "Get support from professional traders"
 }
