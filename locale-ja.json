@@ -225,6 +225,7 @@
   "$verification@error@size": "ファイルサイズが、許容サイズの1Mbを超えています。",
   "$verification@error@format": "このファイル形式は無効です。jpg、png、pdf、tiffのみ有効です。",
   "$verification@error@file": "ファイルのアップロードエラー",
+  "$verification@error@limit": "The document upload limit has been exceeded. You can request to increase the limit by e-mailing us at support@binarium.com",
   "$verification@example": "例",
   "$verification@status@uploaded-p": "アップロード済み",
   "$verification@status@uploaded-m": "アップロード済み",
@@ -289,6 +290,7 @@
   "$tournament@props@prize-places": "上位",
   "$tournament@timer$start": "コンテスト開始時間",
   "$tournament@timer$end": "コンテスト終了時間",
+  "$tournament@timer$ended": "Contest has ended",
   "$tournament@rules": "コンテスト参加のためのルール",
   "$tournament@tab$restrictions": "ご利用条件",
   "$tournament@tab$rating": "参加者ランキング",
@@ -304,5 +306,7 @@
   "$asset@turbo-cap": "1〜5分",
   "$days@short": "d.",
   "$timer@begin-time": "開始",
-  "$timer@finish-time": "完成"
+  "$timer@finish-time": "完成",
+  "$tr@video@title": "Trading room",
+  "$tr@video@text": "Get support from professional traders"
 }
