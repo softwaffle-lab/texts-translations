@@ -225,6 +225,7 @@
   "$verification@error@size": "Dosya boyutu izin verilen 1 MB'lık boyutu aşıyor.",
   "$verification@error@format": "Geçersiz dosya formatı. jpg, png, pdf veya tiff kabul edebiliriz.",
   "$verification@error@file": "Dosya yükleme hatası",
+  "$verification@error@limit": "The document upload limit has been exceeded. You can request to increase the limit by e-mailing us at support@binarium.com",
   "$verification@example": "Örnek",
   "$verification@status@uploaded-p": "Yüklendi",
   "$verification@status@uploaded-m": "Yüklendi",
@@ -289,6 +290,7 @@
   "$tournament@props@prize-places": "Üst sıralar",
   "$tournament@timer$start": "Yarışmanın başlamasına kalan;",
   "$tournament@timer$end": "Yarışmanın bitimine kalan;",
+  "$tournament@timer$ended": "Contest has ended",
   "$tournament@rules": "Yarışmaya katılma kuralları.",
   "$tournament@tab$restrictions": "Hüküm ve Koşullar",
   "$tournament@tab$rating": "Katılımcı sıralaması",
@@ -304,5 +306,7 @@
   "$asset@turbo-cap": "1—5 dk",
   "$days@short": "g.",
   "$timer@begin-time": "Başlıyor",
-  "$timer@finish-time": "Bitiş"
+  "$timer@finish-time": "Bitiş",
+  "$tr@video@title": "Trading room",
+  "$tr@video@text": "Get support from professional traders"
 }
