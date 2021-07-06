@@ -290,6 +290,7 @@
   "$tournament@props@prize-places": "Призовые места",
   "$tournament@timer$start": "До начала турнира",
   "$tournament@timer$end": "До окончания турнира",
+  "$tournament@timer$ended": "Турнир завершён",
   "$tournament@rules": "Правила участия в турнире",
   "$tournament@tab$restrictions": "Условия",
   "$tournament@tab$rating": "Рейтинг участников",
