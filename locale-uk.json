@@ -306,5 +306,7 @@
   "$asset@turbo-cap": "1—5 хв.",
   "$days@short": "д.",
   "$timer@begin-time": "Початок",
-  "$timer@finish-time": "Завершення"
+  "$timer@finish-time": "Завершення",
+  "$tr@video@title": "Торговая комната",
+  "$tr@video@text": "Заручитесь поддержкой профессиональных трейдеров"
 }
