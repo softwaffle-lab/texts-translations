@@ -310,8 +310,8 @@
   "$timer@finish-time": "Finish",
   "$tr@video@title": "Trading room",
   "$tr@video@text": "Get support from professional traders",
-  "BG-7519$menu@education": "Обучение",
-  "BG-7519$menu@about": "Компания",
+  "BG-7519$menu@education": "Education",
+  "BG-7519$menu@about": "Company",
   "BG-7519$menu@trade-btn": "Торговать",
   "BG-7519$menu@main-title": "Сезон отчетности США",
   "BG-7519$menu@main-description": "Публикация отчетов американских компаний — самое ожидаемое событие для трейдеров. Из-за огромного количества новостей, торговля в период отчетности приносит немалую прибыль.",
@@ -328,7 +328,8 @@
   "BG-7519$help@text": "Свяжитесь с нашим аналитиком и он вам обязательно поможет.",
   "BG-7519$help@btn": "Связаться",
   "BG-7519$footer@title": "Консультации и поддержка Binarium 24/7",
-  "BG-7519$footer@risk": "<span>Предупреждение о рисках.</span> Торговые операции осуществляемые на платформе Binarium сопряжены с существенным риском потери капитала. Пожалуйста, внимательно ознакомьтесь с общими условиями торговли, представленными на нашем сайте, до осуществления любых инвестиций. Вам дается право личного, некоммерческого использования информационной системы находящейся на данном сайте. Право использования является ограниченным, не исключительным. Деятельность компании ведется за пределами Российской Федерации.",
+  "BG-7519$footer@risk": "<span>Risk disclosure.</span> Trading operations made on Binarium platform involve a significant risk of loss of a capital. Please, read carefully the general trading conditions on our website before making any investments. You are given the right of personal, non-commercial use of the information located on this site. The right to use is limited, not exclusive. The company's activities are conducted outside the Russian Federation.",
   "BG-7519$footer@soc": "Binarium в соцсетях",
-  "BG-7519$footer@copyright": "© 2021 Binarium Ltd. 8 лет на рынке"
+  "BG-7519$footer@copyright": "© 2021 Binarium Ltd. 8 лет на рынке",
+  "BG-7519$more": "Показать ещё"
 }
