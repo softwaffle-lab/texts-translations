@@ -222,6 +222,7 @@
   "$verification@email@next-error": "Новое письмо может быть отправлено вам через {{ nextEmail }} минут. Чтобы активировать аккаунт, пожалуйста, проверьте свою почту или обратитесь в службу поддержки.",
   "$verification@formats": "Форматы jpg, jpeg, png, tiff, pdf. Размер файла не более 1 МБ",
   "$verification@upload": "Загрузите фото или скан",
+  "$verification@error@detach": "Ошибка. Повторите, пожалуйста, попытку немного позже.",
   "$verification@error@size": "Размер файла превышает допустимый 1 МБ.",
   "$verification@error@format": "Недопустимый формат файла. Мы принимаем форматы jpg, png, pdf и tiff.",
   "$verification@error@file": "Ошибка загрузки файла",
