@@ -222,6 +222,7 @@
   "$verification@email@next-error": "A new message can be sent in {{ nextEmail }} minutes. To activate your account, please verify your email or contact support.",
   "$verification@formats": "Formats: jpg, jpeg, png, tiff, pdf. File size: no more than 1Mb",
   "$verification@upload": "Upload a photo or scan",
+  "$verification@error@detach": "Ошибка. Повторите, пожалуйста, попытку немного позже.",
   "$verification@error@size": "The file size exceeds the permitted size of 1Mb.",
   "$verification@error@format": "Invalid file format. We can accept jpg, png, pdf or tiff.",
   "$verification@error@file": "File upload error",
