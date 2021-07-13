@@ -331,5 +331,21 @@
   "BG-7519$footer@risk": "<span>Risk disclosure.</span> Trading operations made on Binarium platform involve a significant risk of loss of a capital. Please, read carefully the general trading conditions on our website before making any investments. You are given the right of personal, non-commercial use of the information located on this site. The right to use is limited, not exclusive. The company's activities are conducted outside the Russian Federation.",
   "BG-7519$footer@soc": "Binarium on social media",
   "BG-7519$footer@copyright": "© 2021 Binarium Ltd. 8 years on the market",
-  "BG-7519$more": "Show more"
+  "BG-7519$more": "Show more",
+  "BG-7519-popup$button": "Торговать",
+  "BG-7519-popup$support": "С подробностями акции можно ознакомиться <a target=\"_blank\" href=\"/lp/earningsseason/\">здесь.</a><br />Если у вас возникнут вопросы <span class=\"es-call\">свяжитесь с аналитиком <i></i></span>",
+  "BG-7519-popup$asset": "Повышаем доходность {{@asset}} на:",
+  "BG-7519-popup$days": "дни",
+  "BG-7519-popup$hours": "часы",
+  "BG-7519-popup$minutes": "минуты",
+  "BG-7519-popup$seconds": "секунды",
+  "BG-7519-popup$title": "Сезон отчетности США",
+  "BG-7519-popup$1-text": "Уже сегодня стартует сезон отчетности США. Не упустите шанс заработать на акциях Netflix с повышенной доходностью до 90%.",
+  "BG-7519-popup$2-text": "Сегодня финансовую отчетность опубликует компания Microsoft. На Binarium вы можете заработать на акциях компании с повышенной доходностью до 90%.",
+  "BG-7519-popup$3-text": "В какие акции инвестировать? Сегодня Apple публикует отчетность. А вы можете заработать инвестируя в акции компании с повышенной доходностью до 90%.",
+  "BG-7519-popup$4-text": "Как заработать на акциях MCDONALDS? Сегодня, в день выхода отчета, инвестируйте в акции компании с повышенной доходностью до 90%.",
+  "BG-7519-popup$5-text": "Сезон отчетности набирает обороты. Сегодня финансовую отчетность публикует всем известная корпорация Google. А мы повышаем доходность до 90% на акции компании.",
+  "BG-7519-popup$6-text": "Мечтаете о машине? Заработайте на мечту инвестируя в акции Tesla. Сегодня, в день отчетности, повышаем доходность акций компании до 90%.",
+  "BG-7519-popup$7-text": "Осталось совсем немного до окончания сезона отчетности. Сегодня публикация отчета NVIDIA. Инвестируйте в акции компании с доходностью 90%.",
+  "BG-7519-popup$8-text": "Сезон отчетности подходит к концу. Успейте заработать на акциях Alibaba с повышенной доходностью до 90%."
 }
