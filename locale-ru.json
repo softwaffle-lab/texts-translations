@@ -333,7 +333,7 @@
   "BG-7519$footer@copyright": "© 2021 Binarium Ltd. 8 лет на рынке",
   "BG-7519$more": "Показать ещё",
   "BG-7519-popup$button": "Торговать",
-  "BG-7519-popup$support": "С подробностями акции можно ознакомиться <a target=\"_blank\" href=\"/lp/earningsseason/\">здесь.</a><br />Если у вас возникнут вопросы <span class=\"es-call open-chat-button\">свяжитесь с аналитиком <i></i></span>",
+  "BG-7519-popup$support": "С подробностями акции можно ознакомиться <a target=\"_blank\" href=\"/lp/earningsseason/\">здесь.</a><br />Если у вас возникнут вопросы <span class=\"es-call open-es-chat-button\">свяжитесь с аналитиком <i></i></span>",
   "BG-7519-popup$asset": "Повышаем доходность {{@asset}} на:",
   "BG-7519-popup$days": "дни",
   "BG-7519-popup$hours": "часы",
