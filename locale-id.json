@@ -333,7 +333,7 @@
   "BG-7519$footer@copyright": "© 2021 Binarium Ltd. 8 tahun di pasaran",
   "BG-7519$more": "Tampilkan lainnya",
   "BG-7519-popup$button": "Berdagang",
-  "BG-7519-popup$support": "Anda dapat membaca lebih lanjut tentang detail promosi <a target=\"_blank\" href=\"/lp/earningsseason/\">di sini.</a><br />Jika Anda memiliki pertanyaan, <span class=\"es-call open-chat-button\">silakan hubungi analis <i></i></span>",
+  "BG-7519-popup$support": "You can read more about the promotion's details <a target=\"_blank\" href=\"/lp/earningsseason/\">here.</a><br />If you have any questions, <span class=\"es-call open-es-chat-button\">please contact an analyst <i></i></span>",
   "BG-7519-popup$asset": "Kami meningkatkan profitabilitas {{@asset}} sebesar:",
   "BG-7519-popup$days": "hari",
   "BG-7519-popup$hours": "jam",
