@@ -64,7 +64,7 @@
   "$faq@-0-q-0": "登録",
   "$faq@-0-a-0": "<p>メインページにある登録フォームに入力してください。メールフォルダに届いたメールのリンクをクリックして、メールアドレスを認証してください。</p><p>登録は完全無料です。本物の利益を上げる準備が整ったら、本アカウントに入金しましょう。入金する前に、ぜひデモアカウントで事前に試してみてください。.</p><p>アカウントが本登録されれば、取引の準備は完了です。書類などの用意は必要ありません。必要なのは、登録フォームでクライアント契約に同意することだけです。</p>",
   "$faq@-0-q-1": "デモアカウント",
-  "$faq@-0-a-1": "<p>Make your first steps in professional trading easy and risk-free. Get full access to all the platform features with Binarium Demo account. Once your account is set up, practice your trading skills and test your trading strategies with $10,000 on your Demo account. Feel free to switch between Real and Demo accounts in the terminal. On the Demo account you don't deal with the real money and won't be able to withdraw profit.</p><p>If you ran out of demo funds, sign out and log in to your account to restore the initial balance.</p>",
+  "$faq@-0-a-1": "<p>プロフェッショナルな取引をスタートする最初のステップを簡単でリスクのないものにするために、まずはデモアカウントを使用して全プラットフォーム機能へのアクセス許可を取得してください。アカウントの設定が完了したら、デモアカウントにある$10,000を使用してあなたのトレーディングに関する戦略のテストをしたり、トレーディングのスキルを上げましょう。ターミナルにて本アカウントとデモアカウントを自由に切り替えてください。デモアカウントでは実際の資金での処理はされないため、利益が出ても出金することはできません。</p><p>デモアカウントでの資金が不足した場合は、一度サインアウトしてから再度ログインし、初期残高を復元してください。</p>",
   "$faq@-0-q-2": "最低入金額",
   "$faq@-0-a-2": "<p>For most payment methods, the minimum deposit requirement is {{@minDepositSum}} or the equivalent in your account currency. After making a deposit in this amount, you can safely start trading and making real profits. Please note that the minimum deposit amount may vary depending on the payment system you use. You can find detailed information about the minimum deposit for each payment systems found in the Cash Register section.</p>",
   "$faq@-0-q-3": "Binariumで取引を学びましょう",
