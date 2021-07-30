@@ -333,7 +333,7 @@
   "BG-7519$footer@copyright": "© 2021 Binarium Ltd. Há 8 anos no mercado",
   "BG-7519$more": "Exibir mais",
   "BG-7519-popup$button": "Negociar",
-  "BG-7519-popup$support": "Você pode ler mais sobre os detalhes da promoção <a target=\"_blank\" href=\"/lp/earningsseason/\">aqui.</a><br />Se você tiver alguma dúvida, <span class=\"es-call open-chat-button\">entre em contato com um analista <i></i></span>",
+  "BG-7519-popup$support": "Você pode ler mais sobre os detalhes da promoção <a target=\"_blank\" href=\"/lp/earningsseason/\">aqui.</a><br />Se você tiver alguma dúvida, <span class=\"es-call open-es-chat-button\">entre em contato com um analista <i></i></span>",
   "BG-7519-popup$asset": "Estamos aumentando a lucratividade de {{@asset}} por:",
   "BG-7519-popup$days": "dias",
   "BG-7519-popup$hours": "horas",

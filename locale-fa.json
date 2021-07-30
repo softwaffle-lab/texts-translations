@@ -333,7 +333,7 @@
   "BG-7519$footer@copyright": "© 2021 شرکت با مسئولیت محدود Binarium. با 8 سال سابقه حضور در بازار",
   "BG-7519$more": "نمایش بیش‌تر",
   "BG-7519-popup$button": "معامله",
-  "BG-7519-popup$support": "می‌توانید در مورد جزئیات این برنامه تبلیغاتی در <a target=\"_blank\" href=\"/lp/earningsseason/\">اینجا بیشتر بخوانید.</a><br />در صورت داشتن هرگونه سؤال،<span class=\"es-call open-chat-button\"> لطفاً با یک تحلیل‌گر تماس بگیرید <i></i></span>",
+  "BG-7519-popup$support": "می‌توانید در مورد جزئیات این برنامه تبلیغاتی در <a target=\"_blank\" href=\"/lp/earningsseason/\">اینجا بیشتر بخوانید.</a><br />در صورت داشتن هرگونه سؤال،<span class=\"es-call open-es-chat-button\"> لطفاً با یک تحلیل‌گر تماس بگیرید <i></i></span>",
   "BG-7519-popup$asset": "سودآوری {{@asset}} را به میزان زیر افزایش می‌دهیم:",
   "BG-7519-popup$days": "روز",
   "BG-7519-popup$hours": "ساعت",
