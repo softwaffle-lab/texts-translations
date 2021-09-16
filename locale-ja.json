@@ -278,7 +278,7 @@
   "$tournament@tab@current": "現在",
   "$tournament@tab@future": "近日予定",
   "$tournament@tab@archive": "アーカイブ",
-  "$tournament@empty@current": "現時点でアクティブなトーナメントありません。ですが、もうすぐ始まる予定です。<br><br>上にあるメニューの「近日予定」タブをチェックして、プラットフォームニュースやメールに目を配ってください。",
+  "$tournament@empty@current": "現時点でアクティブなトーナメントありませんが、もうすぐ始まります。<br><br>上にあるメニューの「近日予定」タブをチェックして、プラットフォームニュースやメールを確認してください。",
   "$tournament@empty@future": "現時点で予定が組まれているコンテストはありません。ニュースフィードをフォローして、ニュースレターをご覧ください。",
   "$tournament@empty@archive": "コンテストは終わっていません",
   "$tournament@btn@participate": "入場料",
