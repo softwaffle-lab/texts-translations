@@ -407,5 +407,9 @@
   "BG-7876@popup@trn.place": "place",
   "BG-7876@popup@link": "<a target=\"_blank\" href=\"/lp/league-of-traders/\">Details</a> about the rules and terms of the promotion",
   "BG-7876@popup@table.1": "League Ranking",
-  "BG-7876@popup@table.2": "Points"
+  "BG-7876@popup@table.2": "Points",
+  "BG-7876@info-popup@vip": "We're launching the \"League of traders\" promotion and welcome you to the \"VIP\" league. Collect points for active trading, earn prizes and receive up to $10 000 in real money.<br><br>Make a deposit into your account using the promo code VIPPOINT for a sum of $150 or more and receive 150 additional points for your rating and a standard bonus.",
+  "BG-7876@info-popup@pro": "We're launching the \"League of traders\" promotion and welcome you to the \"Pro\" league. Collect points for active trading, earn prizes and receive up to $2 000 in real money.<br><br>Make a deposit into your account using the promo code PROPOINT for a sum of $75 or more and receive 75 additional points for your rating and a standard bonus.",
+  "BG-7876@info-popup@start:true": "We're launching the \"League of traders\" promotion and welcome you to the \"Start\" league. Collect points for active trading, earn prizes and receive up to $1000 in real money.<br><br>Make a deposit into your account using the promo code STARTPOINT for a sum of $50 or more and receive 50 additional points for your rating and a standard bonus.",
+  "BG-7876@info-popup@start:false": "We're launching the \"League of traders\" promotion and welcome you to the \"Start\" league. Collect points for active trading, earn prizes and receive up to $1000 in real money.<br><br>Make a deposit into your account using the promo code POINTSTART for a sum of $40 or more and receive 50 additional points for your rating and a 150% bonus."
 }
