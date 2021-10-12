@@ -416,8 +416,8 @@
   "BG-7876@info-2-popup@vip-2": "Receive 200 additional points and 20 bonus risk-free trades worth $5 each by topping up your account with a minimum of $150 using the promo code VIPPT.",
   "BG-7876@info-2-popup@pro-1": "The rating leaders have already been awarded the first bonuses.<br>Don’t slow down, continue climbing higher and claim a cash prize.",
   "BG-7876@info-2-popup@pro-2": "Receive 100 additional points and 15 bonus risk-free trades worth $5 each by topping up your account with a minimum of $75 using the promo code PROPT.",
-  "BG-7876@info-2-popup@start-1:true": "The rating leaders have already been awarded the first bonuses.<br>Don’t slow down, continue climbing higher and claim a cash prize.",
-  "BG-7876@info-2-popup@start-2:true": "Receive 60 additional points and 20 bonus risk-free trades worth $2 each by topping up your account with a minimum of $40 using the promo code STARTPT.",
-  "BG-7876@info-2-popup@start-1:false": "The rating leaders have already been awarded the first bonuses.<br>Don’t slow down, continue climbing higher and claim a cash prize.",
-  "BG-7876@info-2-popup@start-2:false": "Receive 50 additional points and 150% bonus by topping up your account with a minimum of $40 using the promo code POINTSTART."
+  "BG-7876@info-2-popup@start:true-1": "Лидерам в рейтинге уже начислены первые бонусы.<br>Не сбавляйте обороты, продолжайте продвигаться выше и заберите денежный приз.",
+  "BG-7876@info-2-popup@start:true-2": "Получите 60 дополнительных очков и 20 бонусных безрисковых сделок по $2 каждая, пополнив счет от $40 по промокоду STARTPT.",
+  "BG-7876@info-2-popup@start:false-1": "Лидерам в рейтинге уже начислены первые бонусы.<br>Не сбавляйте обороты, продолжайте продвигаться выше и заберите денежный приз.",
+  "BG-7876@info-2-popup@start:false-2": "Получите 50 дополнительных очков и 150% бонус, пополнив счет от $40 по промокоду POINTSTART."
 }
