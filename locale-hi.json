@@ -419,5 +419,11 @@
   "BG-7876@info-2-popup@start:true-1": "रेटिंग लीडर्स को पहले बोनस से सम्मानित किया जा चुका है।<br> धीमा न पड़ें, आगे बढ़ना जारी रखें और नकद पुरस्कार का दावा करें।",
   "BG-7876@info-2-popup@start:true-2": "प्रोमो कोड STARTPT का उपयोग करते हुए अपने खाते में न्यूनतम $40 के साथ टॉप अप करें और प्रत्येक $2 मूल्य के 60 अतिरिक्त अंक और 20 बोनस जोखिम-रहित ट्रेड प्राप्त करें।",
   "BG-7876@info-2-popup@start:false-1": "रेटिंग लीडर्स को पहले बोनस से सम्मानित किया जा चुका है।<br> धीमा न पड़ें, आगे बढ़ना जारी रखें और नकद पुरस्कार का दावा करें।",
-  "BG-7876@info-2-popup@start:false-2": "POINTSTART प्रोमो कोड का उपयोग करके अपने खाते में न्यूनतम $40 का टॉप अप करें और 50 अतिरिक्त अंक और 150% बोनस प्राप्त करें।"
+  "BG-7876@info-2-popup@start:false-2": "POINTSTART प्रोमो कोड का उपयोग करके अपने खाते में न्यूनतम $40 का टॉप अप करें और 50 अतिरिक्त अंक और 150% बोनस प्राप्त करें।",
+  "BG-7876@info-3-popup@title": "Frighteningly lucrative prizes",
+  "BG-7876@info-3-popup@btn": "Top up",
+  "BG-7876@info-3-popup@vip": "How can you increase your standing without witchcraft or magic? Top up your account with at least $500 using the promo code <strong>VIPHALL</strong> and receive 1000 additional points and a 125% bonus.",
+  "BG-7876@info-3-popup@pro": "How can you increase your standing without witchcraft or magic? Top up your account with at least $50 using the promo code <strong>PROHALL</strong> and receive 200 additional points and a 125% bonus.",
+  "BG-7876@info-3-popup@start:true": "How can you increase your standing without witchcraft or magic? Top up your account with at least $40 using the promo code <strong>STARTHALL</strong> and receive 150 additional points and a 125% bonus.",
+  "BG-7876@info-3-popup@start:false": "How can you increase your standing without witchcraft or magic? Top up your account with at least $40 using the promo code <strong>HALLSTART</strong> and receive 150 additional points and a 150% bonus."
 }
