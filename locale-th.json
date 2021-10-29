@@ -419,5 +419,11 @@
   "BG-7876@info-2-popup@start:true-1": "ผู้นำการจัดอันดับได้รับรางวัลโบนัสแรกแล้ว<br>อย่าช้า ปีนให้สูงขึ้นต่อไปและรับรางวัลเงินสด",
   "BG-7876@info-2-popup@start:true-2": "รับคะแนนเพิ่มเติม 60 คะแนน และโบนัสการซื้อขายไร้ความเสี่ยง 20 รายการ มูลค่า $2 ต่อรายการ โดยเติมเงินในบัญชีของคุณขั้นต่ำ $40 โดยใช้รหัสโปรโมชั่น STARTPT",
   "BG-7876@info-2-popup@start:false-1": "ผู้นำการจัดอันดับ ได้รับรางวัลโบนัสแรกแล้ว<br>อย่าช้า ปีนให้สูงขึ้นต่อไปและรับรางวัลเงินสด",
-  "BG-7876@info-2-popup@start:false-2": "รับ 50 คะแนนเพิ่มเติม และรับโบนัส 150% โดยการเติมเงินในบัญชีของคุณขั้นต่ำ $40 โดยใช้รหัสโปรโมชั่น POINTSTART"
+  "BG-7876@info-2-popup@start:false-2": "รับ 50 คะแนนเพิ่มเติม และรับโบนัส 150% โดยการเติมเงินในบัญชีของคุณขั้นต่ำ $40 โดยใช้รหัสโปรโมชั่น POINTSTART",
+  "BG-7876@info-3-popup@title": "Frighteningly lucrative prizes",
+  "BG-7876@info-3-popup@btn": "Top up",
+  "BG-7876@info-3-popup@vip": "How can you increase your standing without witchcraft or magic? Top up your account with at least $500 using the promo code <strong>VIPHALL</strong> and receive 1000 additional points and a 125% bonus.",
+  "BG-7876@info-3-popup@pro": "How can you increase your standing without witchcraft or magic? Top up your account with at least $50 using the promo code <strong>PROHALL</strong> and receive 200 additional points and a 125% bonus.",
+  "BG-7876@info-3-popup@start:true": "How can you increase your standing without witchcraft or magic? Top up your account with at least $40 using the promo code <strong>STARTHALL</strong> and receive 150 additional points and a 125% bonus.",
+  "BG-7876@info-3-popup@start:false": "How can you increase your standing without witchcraft or magic? Top up your account with at least $40 using the promo code <strong>HALLSTART</strong> and receive 150 additional points and a 150% bonus."
 }
