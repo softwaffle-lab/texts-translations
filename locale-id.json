@@ -419,5 +419,11 @@
   "BG-7876@info-2-popup@start:true-1": "Pemimpin peringkat telah dianugerahi bonus pertama.<br>Jangan ragu, terus naik lebih tinggi dan raih hadiah uang.",
   "BG-7876@info-2-popup@start:true-2": "Raih 60 poin tambahan dan 20 bonus perdagangan bebas riisko yang masing-masing bernilai $2 dengan mengisi dana ke akun Anda minimum sebesar $40 menggunakan kode promo STARTPT.",
   "BG-7876@info-2-popup@start:false-1": "Pemimpin peringkat telah dianugerahi bonus pertama.<br>Jangan ragu, terus naik lebih tinggi dan raih hadiah uang.",
-  "BG-7876@info-2-popup@start:false-2": "Raih 50 poin tambahan dan bonus 150% dengan mengisi dana ke akun Anda minimum sebesar $40 menggunakan kode promo POINTSTART."
+  "BG-7876@info-2-popup@start:false-2": "Raih 50 poin tambahan dan bonus 150% dengan mengisi dana ke akun Anda minimum sebesar $40 menggunakan kode promo POINTSTART.",
+  "BG-7876@info-3-popup@title": "Frighteningly lucrative prizes",
+  "BG-7876@info-3-popup@btn": "Top up",
+  "BG-7876@info-3-popup@vip": "How can you increase your standing without witchcraft or magic? Top up your account with at least $500 using the promo code <strong>VIPHALL</strong> and receive 1000 additional points and a 125% bonus.",
+  "BG-7876@info-3-popup@pro": "How can you increase your standing without witchcraft or magic? Top up your account with at least $50 using the promo code <strong>PROHALL</strong> and receive 200 additional points and a 125% bonus.",
+  "BG-7876@info-3-popup@start:true": "How can you increase your standing without witchcraft or magic? Top up your account with at least $40 using the promo code <strong>STARTHALL</strong> and receive 150 additional points and a 125% bonus.",
+  "BG-7876@info-3-popup@start:false": "How can you increase your standing without witchcraft or magic? Top up your account with at least $40 using the promo code <strong>HALLSTART</strong> and receive 150 additional points and a 150% bonus."
 }
