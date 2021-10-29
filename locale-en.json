@@ -419,5 +419,11 @@
   "BG-7876@info-2-popup@start:true-1": "The rating leaders have already been awarded the first bonuses.<br>Don’t slow down, continue climbing higher and claim a cash prize.",
   "BG-7876@info-2-popup@start:true-2": "Receive 60 additional points and 20 bonus risk-free trades worth $2 each by topping up your account with a minimum of $40 using the promo code STARTPT.",
   "BG-7876@info-2-popup@start:false-1": "The rating leaders have already been awarded the first bonuses.<br>Don’t slow down, continue climbing higher and claim a cash prize.",
-  "BG-7876@info-2-popup@start:false-2": "Receive 50 additional points and 150% bonus by topping up your account with a minimum of $40 using the promo code POINTSTART."
+  "BG-7876@info-2-popup@start:false-2": "Receive 50 additional points and 150% bonus by topping up your account with a minimum of $40 using the promo code POINTSTART.",
+  "BG-7876@info-3-popup@title": "Страшно выгодные подарки",
+  "BG-7876@info-3-popup@btn": "Получить",
+  "BG-7876@info-3-popup@vip": "Как повысить место в рейтинге без колдовства и магии? Пополняйте счет по промокоду <strong>VIPHALL</strong> на сумму от $500 и получите 1000 дополнительных очков и 125% бонус.",
+  "BG-7876@info-3-popup@pro": "Как повысить место в рейтинге без колдовства и магии? Пополняйте счет по промокоду <strong>PROHALL</strong> на сумму от $50 и получите 200 дополнительных очков и 125% бонус.",
+  "BG-7876@info-3-popup@start:true": "Как повысить место в рейтинге без колдовства и магии? Пополняйте счет по промокоду <strong>STARTHALL</strong> на сумму от $40 и получите 150 дополнительных очков и 125% бонус.",
+  "BG-7876@info-3-popup@start:false": "Как повысить место в рейтинге без колдовства и магии? Пополняйте счет по промокоду <strong>HALLSTART</strong> на сумму от $40 и получите 150 дополнительных очков и 150% бонус."
 }
