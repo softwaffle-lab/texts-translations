@@ -323,6 +323,7 @@
   "$profile@address": "ที่อยู่",
   "$profile@postcode": "รหัสไปรษณีย์",
   "$profile@reset.address": "ล้างข้อมูลที่อยู่",
+  "$tm@tour.skip": "Skip",
   "BG-7519$menu@education": "การศึกษา",
   "BG-7519$menu@about": "บริษัท",
   "BG-7519$menu@trade-btn": "การซื้อขาย",
