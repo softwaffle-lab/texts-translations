@@ -323,6 +323,7 @@
   "$profile@address": "पता",
   "$profile@postcode": "पोस्टकॉड",
   "$profile@reset.address": "साफ लिखी पते की जानकारी",
+  "$tm@tour.skip": "Skip",
   "BG-7519$menu@education": "Education",
   "BG-7519$menu@about": "Company",
   "BG-7519$menu@trade-btn": "Trade",

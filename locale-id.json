@@ -323,6 +323,7 @@
   "$profile@address": "Alamat",
   "$profile@postcode": "Kode pos",
   "$profile@reset.address": "Informasi alamat yang jelas",
+  "$tm@tour.skip": "Skip",
   "BG-7519$menu@education": "Edukasi",
   "BG-7519$menu@about": "Perusahaan",
   "BG-7519$menu@trade-btn": "Berdagang",

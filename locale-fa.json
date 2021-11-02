@@ -323,6 +323,7 @@
   "$profile@address": "آدرس",
   "$profile@postcode": "کد پستی",
   "$profile@reset.address": "Clear address information",
+  "$tm@tour.skip": "Skip",
   "BG-7519$menu@education": "آموزش",
   "BG-7519$menu@about": "شرکت",
   "BG-7519$menu@trade-btn": "معامله",
