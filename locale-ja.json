@@ -419,5 +419,11 @@
   "BG-7876@info-2-popup@start:true-1": "The rating leaders have already been awarded the first bonuses.<br>Don’t slow down, continue climbing higher and claim a cash prize.",
   "BG-7876@info-2-popup@start:true-2": "Receive 60 additional points and 20 bonus risk-free trades worth $2 each by topping up your account with a minimum of $40 using the promo code STARTPT.",
   "BG-7876@info-2-popup@start:false-1": "The rating leaders have already been awarded the first bonuses.<br>Don’t slow down, continue climbing higher and claim a cash prize.",
-  "BG-7876@info-2-popup@start:false-2": "Receive 50 additional points and 150% bonus by topping up your account with a minimum of $40 using the promo code POINTSTART."
+  "BG-7876@info-2-popup@start:false-2": "Receive 50 additional points and 150% bonus by topping up your account with a minimum of $40 using the promo code POINTSTART.",
+  "BG-7876@info-3-popup@title": "Frighteningly lucrative prizes",
+  "BG-7876@info-3-popup@btn": "Top up",
+  "BG-7876@info-3-popup@vip": "How can you increase your standing without witchcraft or magic? Top up your account with at least $500 using the promo code <strong>VIPHALL</strong> and receive 1000 additional points and a 125% bonus.",
+  "BG-7876@info-3-popup@pro": "How can you increase your standing without witchcraft or magic? Top up your account with at least $50 using the promo code <strong>PROHALL</strong> and receive 200 additional points and a 125% bonus.",
+  "BG-7876@info-3-popup@start:true": "How can you increase your standing without witchcraft or magic? Top up your account with at least $40 using the promo code <strong>STARTHALL</strong> and receive 150 additional points and a 125% bonus.",
+  "BG-7876@info-3-popup@start:false": "How can you increase your standing without witchcraft or magic? Top up your account with at least $40 using the promo code <strong>HALLSTART</strong> and receive 150 additional points and a 150% bonus."
 }
