@@ -323,6 +323,7 @@
   "$profile@address": "Địa chỉ",
   "$profile@postcode": "Mã bưu chính",
   "$profile@reset.address": "Clear address information",
+  "$tm@tour.skip": "Skip",
   "BG-7519$menu@education": "Education",
   "BG-7519$menu@about": "Company",
   "BG-7519$menu@trade-btn": "Trade",
