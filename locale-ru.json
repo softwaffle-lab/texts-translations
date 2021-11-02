@@ -323,6 +323,7 @@
   "$profile@address": "Адрес",
   "$profile@postcode": "Индекс",
   "$profile@reset.address": "Удалить адрес",
+  "$tm@tour.skip": "Пропустить",
   "BG-7519$menu@education": "Обучение",
   "BG-7519$menu@about": "Компания",
   "BG-7519$menu@trade-btn": "Торговать",
