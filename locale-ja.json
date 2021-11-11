@@ -325,6 +325,7 @@
   "$profile@address": "住所",
   "$profile@postcode": "郵便番号",
   "$profile@reset.address": "Clear address information",
+  "$tour@finish": "Start trading",
   "$tour@tskip": "Skip",
   "$tour@slide-1-title": "Welcome to Binarium",
   "$tour@slide-1-text-left": "Read all of the cards to familiarise yourself with the platform's interface and trading principles. This will only take a few minutes.<br /><br />On the left is<strong>the main menu</strong>. Here you can carry out basic actions on the platform. Here you will also find a training section with answers to FAQs as well as effective trading strategies.",
