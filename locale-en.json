@@ -309,6 +309,7 @@
   "$tournament@props@max-simultaneously-open-deals": "Open trade limit",
   "$tournament@props@max-amount-of-open-deals": "Investment limit",
   "$tournament@props@available-options-types": "Available options",
+  "$tournaments-promotions@menu": "Акции и турниры",
   "$promotion@menu": "Акции",
   "$days@short": "d.",
   "free-spins@real": "Real",
