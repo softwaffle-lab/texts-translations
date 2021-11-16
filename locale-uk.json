@@ -309,6 +309,7 @@
   "$tournament@props@max-simultaneously-open-deals": "Ліміт відкритих угод",
   "$tournament@props@max-amount-of-open-deals": "Ліміт інвестицій",
   "$tournament@props@available-options-types": "Доступні опціони",
+  "$tournaments-promotions@menu": "Акции и турниры",
   "$promotion@menu": "Акции",
   "$days@short": "д.",
   "free-spins@real": "Реальні",
