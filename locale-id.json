@@ -306,7 +306,7 @@
   "$tournament@props@max-simultaneously-open-deals": "Batas trading terbuka",
   "$tournament@props@max-amount-of-open-deals": "Batas investasi",
   "$tournament@props@available-options-types": "Opsi tersedia",
-  "$tournaments-promotions@menu": "Promotions and contests",
+  "$tournaments-promotions@menu": "Promosi dan kontes",
   "$promotion@menu": "Promotions",
   "$promotion@timer$start": "Promotion starts in",
   "$promotion@timer$end": "Promotion ends in",
