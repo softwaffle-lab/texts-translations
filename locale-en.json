@@ -276,6 +276,7 @@
   "$asset@categories": "Filters",
   "$asset@binary-cap": "5+ min",
   "$asset@turbo-cap": "1—5 min",
+  "$asset@random-cap": "1 мин.",
   "$tournament@menu": "Contests",
   "$tournament@tab@current": "Current",
   "$tournament@tab@future": "Coming soon",
