@@ -473,5 +473,5 @@
   "BG-8234@btn": "Получить",
   "BG-8234@link-1": "Подробнее об акции",
   "BG-8234@link-2": "здесь",
-  "BG-8234@prize": "'<i>Бонус {{bonus}}%</i><br>на депозит<br>по промокоду<br><strong>{{code}}<br>{{tickets}} билетов</strong>'"
+  "BG-8234@prize": "<i>Бонус {{@bonus}}%</i><br>на депозит<br>по промокоду<br><strong>{{@code}}<br>{{@tickets}} билетов</strong>"
 }
