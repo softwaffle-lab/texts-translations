@@ -468,5 +468,10 @@
   "BG-8203@menu": "New Year<br>with Binarium",
   "BG-8203@text": "We’re launching a New Year’s promotion and are inviting you to participate in a prize draw for valuable prizes. Trade, collect tickets and be in with a chance of winning the prize of your dreams.",
   "BG-8203@details": "More details",
-  "BG-8203@tickets": "Your tickets:"
+  "BG-8203@tickets": "Your tickets:",
+  "BG-8234@text": "Второй этап розыгрыша призов уже стартовал. Будьте активными, собирайте билеты и выиграйте крутой ноутбук или телефон. Нажмите на одну из коробок и получите подарок прямо сейчас.",
+  "BG-8234@btn": "Получить",
+  "BG-8234@link-1": "Подробнее об акции",
+  "BG-8234@link-2": "здесь",
+  "BG-8234@prize": "'<i>Бонус {{bonus}}%</i><br>на депозит<br>по промокоду<br><strong>{{code}}<br>{{tickets}} билетов</strong>'"
 }
