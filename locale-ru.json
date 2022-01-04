@@ -366,7 +366,6 @@
   "$volatile-notification@header": "Волатильный Режим",
   "$volatile-notification@text": "Лимит сделок в этом режиме: 1 сделка в секунду. Чтобы открыть новую сделку, дождитесь следующей секунды.",
   "$volatile-notification@button": "Подробнее",
-  "$asset-menu@profitability": "Доходность",
   "$asset-menu@fixed": "Фиксированная",
   "$asset-menu@volatile": "Волатильная",
   "$asset-menu@expiration": "Экспирация",
