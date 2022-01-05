@@ -487,5 +487,5 @@
   "BG-8234@link-2": "here",
   "BG-8234@prize": "<i>Bonus {{@bonus}}%</i><br>on deposit<br>using promocode<br><strong>{{@code}}<br><span>{{@tickets}} tickets</span></strong>",
   "BG-8245@text": "The New Year's prize draw is still going. Become a winner of the third stage and receive a prize for an active winter holiday. But first, choose a box to receive an additional prize.",
-  "BG-8245@prize": "<i>Bonus risk-free trades {{@count}} of ${{@spins}}</i><br>on a deposit<br>using the promo code<br><strong>{{@code}}<br><span>{{@tickets}} tickets</span></strong>"
+  "BG-8245@prize": "<i>Бонусные безрисковые сделки<br>{{@count}} по ${{@spins}}</i><br>на депозит<br>по промокоду<br><strong>{{@code}}<br><span>{{@tickets}} билетов</span></strong>"
 }
