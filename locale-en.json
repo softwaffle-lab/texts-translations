@@ -401,7 +401,7 @@
   "$security-aside@2f": "Настройка двухфакторной аутентификации",
   "$security-aside@social": "Подключение аккаунтов соц. сетей",
   "$err@2f-wrong-otp": "Вы ввели неверный код. Попробуйте еще раз",
-  "$err@wrong-password": "Wrong password",
+  "$err@wrong-password": "Неправильный пароль",
   "$signin-2f@title": "Two-factor authentication",
   "$signin-2f@lost-title": "Потеряли доступ к аутенфицирующему устройству?",
   "$signin-2f@lost-code": "Введите код восстановления",
