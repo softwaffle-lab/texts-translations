@@ -407,7 +407,7 @@
   "$signin-2f@lost-code": "Enter the recovery code",
   "$signin-2f@lost-action": "Continue",
   "$signin-2f@restore-title": "Recovery code",
-  "$signin-2f@restore-code": "Введите код восстановления, полученный при подключении двухфакторной аутентификации",
+  "$signin-2f@restore-code": "Enter the recovery code received upon activation of the two-factor authentication",
   "$signin-2f@restore-label": "Recovery code",
   "$profile@domain": "Персональная ссылка",
   "BG-7519$menu@education": "Education",
