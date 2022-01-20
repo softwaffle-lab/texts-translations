@@ -409,7 +409,7 @@
   "$signin-2f@restore-title": "Код відновлення",
   "$signin-2f@restore-code": "Введіть код відновлення, отриманий при підключенні двофакторної автентифікації",
   "$signin-2f@restore-label": "Код відновлення",
-  "$profile@domain": "Персональная ссылка",
+  "$profile@domain": "Персональне посилання",
   "BG-7519$menu@education": "Навчання",
   "BG-7519$menu@about": "Компанія",
   "BG-7519$menu@trade-btn": "Торгувати",
