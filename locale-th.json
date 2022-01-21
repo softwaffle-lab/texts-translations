@@ -276,7 +276,7 @@
   "$asset@categories": "ตัวกรอง",
   "$asset@binary-cap": "มากกว่า 5 นาที",
   "$asset@turbo-cap": "1-5 นาที",
-  "$asset@volatile-cap": "1 min.",
+  "$asset@volatile-cap": "1 นาที",
   "$tournament@menu": "การแข่งขัน",
   "$tournament@tab@current": "ปัจจุบัน",
   "$tournament@tab@future": "เร็วๆนี้",
