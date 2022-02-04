@@ -526,5 +526,7 @@
   "BG-8245@text": "การจับรางวัลปีใหม่ยังคงดำเนินต่อไป ร่วมเป็นผู้ชนะในด่านที่สาม และรับรางวัลสำหรับวันหยุดฤดูหนาวที่มีอยู่ แต่ก่อนอื่นให้เลือกกล่อง เพื่อรับรางวัลเพิ่มเติม",
   "BG-8245@prize": "<i>โบนัสการซื้อขายที่ปราศจากความเสี่ยง<br>{{@count}} จาก ${{@spins}}</i><br>ในการฝากเงิน<br>โดยใช้รหัสโปรโมชั่น<br><strong>{{ @code}}<br><span>{{@tickets}} ตั๋ว</span></strong>",
   "BG-8265@text": "เข้าร่วมในขั้นตอนสุดท้ายของการจับรางวัลและรับรางวัลใหม่ Infiniti เพิ่มแรงจูงใจในการชนะ โดยคลิกที่กล่องใดกล่องหนึ่ง",
-  "BG-8265@prize": "<i>โบนัส {{@bonus}}%</i><br>ใช้รหัสโปรโมโค้ด<br><strong>{{@code}}<br><span>+{{@tickets}} ตั๋ว</span ><br>+เข้าร่วมการแข่งขันฟรี</strong>"
+  "BG-8265@prize": "<i>โบนัส {{@bonus}}%</i><br>ใช้รหัสโปรโมโค้ด<br><strong>{{@code}}<br><span>+{{@tickets}} ตั๋ว</span ><br>+เข้าร่วมการแข่งขันฟรี</strong>",
+  "BG-8437@title": "Valentine’s Day",
+  "BG-8437@text": "We are launching a Valentine's Day promotion and increasing Amazon's profitability. Open profitable trades and get a chance to win prizes from Binarium."
 }
