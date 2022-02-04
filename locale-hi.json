@@ -526,5 +526,7 @@
   "BG-8245@text": "नए साल का प्राइज ड्रॉ अभी भी जारी है। तीसरे चरण के विजेता बनें और एक सक्रिय शीतकालीन छुट्टियों के लिए पुरस्कार प्राप्त करें। लेकिन पहले, एक अतिरिक्त पुरस्कार प्राप्त करने के लिए एक बॉक्स चुनें।",
   "BG-8245@prize": "<i>${{@spins}} के <br>{{@count}} बोनस जोखिम रहित ट्रेड</i> <br><strong>{{ @code}}<br>प्रोमो कोड का उपयोग करके<br>जमा करने पर<br> <span>{{@tickets}} टिकट</span></strong>",
   "BG-8265@text": "पुरस्कार ड्रॉ के अंतिम चरण में भाग लें और नई Infiniti जीतें। किसी एक बॉक्स पर क्लिक करके जीतने के लिए प्रेरणा बढ़ाएँ।",
-  "BG-8265@prize": "<i>बोनस {{@bonus}}%</i><br><strong>{{@code}}<br>प्रोमोकोड का उपयोग करके<br>><span>+{{@tickets}} टिकट</span><br> +टूर्नामेंट की मुफ़्त एक्सेस</strong>"
+  "BG-8265@prize": "<i>बोनस {{@bonus}}%</i><br><strong>{{@code}}<br>प्रोमोकोड का उपयोग करके<br>><span>+{{@tickets}} टिकट</span><br> +टूर्नामेंट की मुफ़्त एक्सेस</strong>",
+  "BG-8437@title": "Valentine’s Day",
+  "BG-8437@text": "We are launching a Valentine's Day promotion and increasing Amazon's profitability. Open profitable trades and get a chance to win prizes from Binarium."
 }
