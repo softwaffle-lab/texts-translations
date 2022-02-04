@@ -396,6 +396,8 @@
   "$2f@label-password": "Kata sandi sekarang",
   "$2f@hint-title": "Apa itu kode pemulihan?",
   "$2f@hint-text": "Kode pemulihan adalah kode rahasia yang diberikan kepada pengguna segera setelah otentikasi dua faktor diaktifkan. Ini digunakan untuk memulihkan akses ke akun ketika akses ke perangkat yang ditautkan telah hilang. Kode umumnya disimpan dalam dokumen PDF. Kami meminta klien Binarium untuk menyimpan kode ini di tempat yang aman.&#13;&#13;Jika kode pemulihan hilang, akses ke akun hanya dapat dipulihkan setelah prosedur verifikasi identitas lengkap. Untuk memulihkan akun Anda menggunakan metode ini, hubungi Tim Dukungan Binarium.",
+  "$2f@offer-text": "Защитите средства на аккаунте, настройте двухфакторную аутентификацию",
+  "$2f@offer-btn": "Настроить",
   "$security-aside@title": "Pengaturan keamanan",
   "$security-aside@password": "Ubah kata sandi",
   "$security-aside@2f": "Pengaturan otentikasi dua faktor",

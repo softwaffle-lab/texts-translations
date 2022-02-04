@@ -396,6 +396,8 @@
   "$2f@label-password": "Current password",
   "$2f@hint-title": "What is a recovery code?",
   "$2f@hint-text": "A recovery code is a secret code provided to the user immediately after the two-factor authentication has been enabled. It is used to recover access to the account when access to the linked device has been lost. The code is generally stored in a PDF document. We ask Binarium clients to store this code in a safe place.&#13;&#13;If the recovery code has been lost, access to the account can only be recovered after a complete identity verification procedure. To recover your account using this method, contact Binarium Support Team.",
+  "$2f@offer-text": "Защитите средства на аккаунте, настройте двухфакторную аутентификацию",
+  "$2f@offer-btn": "Настроить",
   "$security-aside@title": "Security settings",
   "$security-aside@password": "Change password",
   "$security-aside@2f": "Two-factor authentication setup",
