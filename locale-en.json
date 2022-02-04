@@ -526,5 +526,7 @@
   "BG-8245@text": "The New Year's prize draw is still going. Become a winner of the third stage and receive a prize for an active winter holiday. But first, choose a box to receive an additional prize.",
   "BG-8245@prize": "<i>Bonus risk-free trades<br>{{@count}} of ${{@spins}}</i><br>on a deposit<br>using the promo code<br><strong>{{@code}}<br><span>{{@tickets}} tickets</span></strong>",
   "BG-8265@text": "Participate in the final stage of the prize draw and win the new Infiniti. Increase incentive for winning by сlicking on one of the boxes.",
-  "BG-8265@prize": "<i>Bonus {{@bonus}}%</i><br>using the promocode<br><strong>{{@code}}<br><span>+{{@tickets}} tickets</span><br>+free access to the tournament</strong>"
+  "BG-8265@prize": "<i>Bonus {{@bonus}}%</i><br>using the promocode<br><strong>{{@code}}<br><span>+{{@tickets}} tickets</span><br>+free access to the tournament</strong>",
+  "BG-8437@title": "День святого Валентина",
+  "BG-8437@text": "Запускаем акцию ко дню влюбленных и повышаем доходность Amazon. Открывайте прибыльные сделки и получите возможность выиграть призы от Binarium."
 }
