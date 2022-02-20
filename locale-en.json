@@ -412,6 +412,7 @@
   "$signin-2f@restore-code": "Enter the recovery code received upon activation of the two-factor authentication",
   "$signin-2f@restore-label": "Recovery code",
   "$profile@domain": "Personal link",
+  "$cashbox@withdrawal@limits": "Лимит на вывод средств превышен. Для вашего типа счета доступно заявок в день:{{dayCount}}<br>Остаток дневного лимита:{{daySum}}Остаток месячного лимита:{{monthSum}}<br>Следующая заявка будет доступна:{{nextDate}}<br>Повысьте тип счета, чтобы увеличить лимиты",
   "BG-7519$menu@education": "Education",
   "BG-7519$menu@about": "Company",
   "BG-7519$menu@trade-btn": "Trade",
