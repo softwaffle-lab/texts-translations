@@ -419,6 +419,8 @@
   "$cashbox@withdrawal@alert@bonus": "потере бонусных средств в размере <strong>{{@bonus}}</strong>",
   "$cashbox@withdrawal@alert@bonusDeals": "аннулированию сделок, открытых с бонусного счета",
   "$cashbox@withdrawal@alert@freeSpinDeals": "потере безрисковых сделок: <strong>{{@freeSpinDealsCount}}</strong> на общую сумму <strong>{{@freeSpinDealsSum}}</strong>",
+  "$cashbox@withdrawal@alert@cancel": "Отменить вывод",
+  "$cashbox@withdrawal@alert@continue": "Я принимаю условия вывода",
   "BG-7519$menu@education": "Education",
   "BG-7519$menu@about": "Company",
   "BG-7519$menu@trade-btn": "Trade",
