@@ -415,6 +415,7 @@
   "$cashbox@withdrawal@restrict-count": "Amount of withdrawal requests available at the moment: 0",
   "$cashbox@withdrawal@restrict-amount": "Sum of available withdrawals at the moment: 0",
   "$cashbox@withdrawal@limits": "For your account type there are requests available per day: {{@dayCount}}<br>Your daily limit: {{@daySum}}<br>Your monthly limit: {{@monthSum}}<br>The next request will be available: {{@nextDate}}<br>Boost<span class=\"open-act-button\">account type</span> to increase the limits",
+  "$cashbox@withdrawal@limits-empty": "без лимита",
   "$cashbox@withdrawal@alert@title": "Warning",
   "$cashbox@withdrawal@alert@text": "Withdrawal of funds from the real account will result in:",
   "$cashbox@withdrawal@alert@wager": "changing the wager from {{@currentWager}} to {{@nextWager}} in conjunction with the cancellation of active trades in which both real and bonus funds are involved.<br>Amount of trades: <strong>{{@combiDealsCount}}</strong>, in total <strong>{{@combiDealsAmount}}</strong>.",
