@@ -277,6 +277,7 @@
   "$asset@binary-cap": "5+ دقیقه",
   "$asset@turbo-cap": "1—5 دقیقه",
   "$asset@volatile-cap": "1 min.",
+  "$ac-types@title": "Типы счетов",
   "$ac-types@deposit": "Сумма депозита",
   "$ac-types@tradeback": "Трейдбек",
   "$ac-types@assets": "Торговые активы",
