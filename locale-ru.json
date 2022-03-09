@@ -433,7 +433,7 @@
   "$profile@domain": "Персональная ссылка",
   "$cashbox@withdrawal@restrict-count": "Количество доступных заявок на вывод средств в данный момент: 0",
   "$cashbox@withdrawal@restrict-amount": "Сумма доступных выводов в данный момент: 0",
-  "$cashbox@withdrawal@limits": "Для вашего типа счета доступно заявок в день: {{@dayCount}}<br>Ваш дневной лимит: {{@daySum}}<br>Ваш месячный лимит: {{@monthSum}}<br>Следующая заявка будет доступна: {{@nextDate}}<br>Повысьте <span class=\"open-act-button\">тип счета</span>, чтобы увеличить лимиты",
+  "$cashbox@withdrawal@limits": "Для вашего типа счета доступно заявок в день: {{@dayCount}}<br>Ваш дневной лимит: {{@daySum}}<br>Ваш недельный лимит: {{@weekSum}}<br>Ваш месячный лимит: {{@monthSum}}<br>Следующая заявка будет доступна: {{@nextDate}}<br>Повысьте <span class=\"open-act-button\">тип счета</span>, чтобы увеличить лимиты",
   "$cashbox@withdrawal@limits-empty": "без лимита",
   "$cashbox@withdrawal@alert@title": "Предупреждение",
   "$cashbox@withdrawal@alert@text": "Вывод средств с реального счета приведет к:",
