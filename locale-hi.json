@@ -277,9 +277,9 @@
   "$asset@binary-cap": "5+ मिनट",
   "$asset@turbo-cap": "1—5 मिनट",
   "$asset@volatile-cap": "1 मिनट.",
-  "$ac-types@title": "Account types",
-  "$ac-types@deposit": "Deposit amount",
-  "$ac-types@tradeback": "Tradeback",
+  "$ac-types@title": "खाते के प्रकार",
+  "$ac-types@deposit": "जमा राशि",
+  "$ac-types@tradeback": "ट्रेडबैक",
   "$ac-types@assets": "Trading assets",
   "$ac-types@limit": "Withdrawal limit, per day / per week",
   "$ac-types@limit_one": "Limit per request",
@@ -444,7 +444,7 @@
   "$cashbox@withdrawal@alert@bonusDeals": "сancellation of trades made from a bonus account.<br>Amount of trades: <strong>{{@bonusDealsCount}}</strong>, in total <strong>{{@bonusDealsAmount}}</strong>.",
   "$cashbox@withdrawal@alert@freeSpinDeals": "loss of risk-free trades: <strong>{{@freeSpinDealsCount}}</strong> in overall total <strong>{{@freeSpinDealsSum}}</strong>",
   "$cashbox@withdrawal@alert@cancel": "Cancel withdrawal",
-  "$cashbox@withdrawal@alert@continue": "I accept the terms of withdrawal",
+  "$cashbox@withdrawal@alert@continue": "मुझे विथ्ड्रॉअल की शर्तें स्वीकार हैं",
   "BG-7519$menu@education": "Education",
   "BG-7519$menu@about": "Company",
   "BG-7519$menu@trade-btn": "Trade",
@@ -560,6 +560,6 @@
   "BG-8245@prize": "<i>${{@spins}} के <br>{{@count}} बोनस जोखिम रहित ट्रेड</i> <br><strong>{{ @code}}<br>प्रोमो कोड का उपयोग करके<br>जमा करने पर<br> <span>{{@tickets}} टिकट</span></strong>",
   "BG-8265@text": "पुरस्कार ड्रॉ के अंतिम चरण में भाग लें और नई Infiniti जीतें। किसी एक बॉक्स पर क्लिक करके जीतने के लिए प्रेरणा बढ़ाएँ।",
   "BG-8265@prize": "<i>बोनस {{@bonus}}%</i><br><strong>{{@code}}<br>प्रोमोकोड का उपयोग करके<br>><span>+{{@tickets}} टिकट</span><br> +टूर्नामेंट की मुफ़्त एक्सेस</strong>",
-  "BG-8437@title": "Valentine’s Day",
-  "BG-8437@text": "We are launching a Valentine's Day promotion and increasing Amazon's profitability. Open profitable trades and get a chance to win prizes from Binarium."
+  "BG-8437@title": "वैलेंटाइन्स डे",
+  "BG-8437@text": "हम वैलेंटाइन्स डे प्रमोशन शुरू कर रहे हैं और Amazon की प्रॉफिटेबिलिटी बढ़ा रहे हैं। लाभदायक ट्रेड्स खोलें और Binarium से पुरस्कार जीतने का मौका पाएं।"
 }
