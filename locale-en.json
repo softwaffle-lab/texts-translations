@@ -432,7 +432,7 @@
   "$signin-2f@restore-label": "Recovery code",
   "$profile@domain": "Personal link",
   "$terminal$section@backward": "Back",
-  "$terminal$menu@calendar": "События",
+  "$terminal$menu@calendar": "Календарь событий",
   "$terminal$calendar@tab-1": "Yesterday",
   "$terminal$calendar@tab-2": "Today",
   "$terminal$calendar@tab-3": "Tomorrow",
