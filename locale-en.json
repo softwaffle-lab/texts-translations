@@ -448,7 +448,7 @@
   "$terminal$calendar@country": "Country",
   "$terminal$calendar@deal": "Open a trade on a related asset",
   "$terminal$asset-menu@upgrade-account": "Upgrade",
-  "$terminal$asset-menu@nfx-restriction": "Режим NFX доступен исключительно для уровней счетов Premium и VIP",
+  "$terminal$asset-menu@nfx-restriction": "NFX mode is available exclusively for Premium and VIP accounts",
   "$terminal$asset-menu@nfx-accounts": "Premium and VIP only",
   "$cashbox@withdrawal@err-limit": "The withdrawal limit has been exceeded",
   "$cashbox@withdrawal@restrict-count": "Amount of withdrawal requests available at the moment: 0",
