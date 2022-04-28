@@ -448,7 +448,7 @@
   "$terminal$calendar@country": "Країна",
   "$terminal$calendar@deal": "Відкрити угоду на пов'язаному активу",
   "$terminal$asset-menu@upgrade-account": "Підвищити",
-  "$terminal$asset-menu@nfx-restriction": "Режим NFX доступен исключительно для уровней счетов Premium и VIP",
+  "$terminal$asset-menu@nfx-restriction": "Режим NFX доступний виключно для рівнів рахунків Premium",
   "$terminal$asset-menu@nfx-accounts": "Тільки для Premium та VIP",
   "$cashbox@withdrawal@err-limit": "Перевищено ліміт суми виведення",
   "$cashbox@withdrawal@restrict-count": "Кількість доступних заявок на виведення коштів на даний момент: 0",
