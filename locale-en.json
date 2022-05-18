@@ -448,6 +448,7 @@
   "$terminal$calendar@source": "Source",
   "$terminal$calendar@country": "Country",
   "$terminal$calendar@deal": "Open a trade on a related asset",
+  "$terminal$calendar@till": "Через <i>{{@min}} мин.</i>",
   "$terminal$asset-menu@upgrade-account": "Upgrade",
   "$terminal$asset-menu@nfx-restriction": "NFX mode is available exclusively for Premium and VIP accounts",
   "$terminal$asset-menu@nfx-accounts": "Premium and VIP only",
