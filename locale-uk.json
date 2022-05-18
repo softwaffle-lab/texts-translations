@@ -448,6 +448,7 @@
   "$terminal$calendar@source": "Джерело новини",
   "$terminal$calendar@country": "Країна",
   "$terminal$calendar@deal": "Відкрити угоду на пов'язаному активу",
+  "$terminal$calendar@till": "Через <i>{{@min}} мин.</i>",
   "$terminal$asset-menu@upgrade-account": "Підвищити",
   "$terminal$asset-menu@nfx-restriction": "Режим NFX доступний виключно для рівнів рахунків Premium",
   "$terminal$asset-menu@nfx-accounts": "Тільки для Premium та VIP",
