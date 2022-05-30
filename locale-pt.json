@@ -390,7 +390,7 @@
   "$volatile-popup@h1": "Fixa",
   "$volatile-popup@t1": "Ao abrir negociações com rendimento fixo, você sabe antecipadamente o valor do lucro possível. A lucratividade neste modo de negociação pode chegar a 90%. A negociação pode ser feita tanto com fundos reais como fundos de bônus",
   "$volatile-popup@h2": "Volátil",
-  "$volatile-popup@t2": "In the volatile mode, the yield changes every second and remains unknown until the opening of the transaction. In this mode, the yield ranges from 10 to 10,000%. Trading is possible only with real funds",
+  "$volatile-popup@t2": "No modo volátil, o rendimento muda a cada segundo e permanece desconhecido até a abertura da transação. Nesta modalidade, o rendimento varia de 10 a 10.000%. A negociação é possível apenas com fundos reais",
   "$asset-menu@fixed": "Fixa",
   "$asset-menu@volatile": "Volátil",
   "$asset-menu@expiration": "Vencimento",
