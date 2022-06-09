@@ -499,6 +499,7 @@
   "$cashbox@filter@type-all": "Все операции",
   "$cashbox@filter@apply": "Показать",
   "$cashbox@filter@reset": "Сбросить",
+  "$terminal@server-err_buy-option@max-open-trades-for-exp-type": "Вы достигли максимальное количество открытых сделок для данного режима торговли — {{@limit}}",
   "BG-7519$menu@education": "Обучение",
   "BG-7519$menu@about": "Компания",
   "BG-7519$menu@trade-btn": "Торговать",
