@@ -390,7 +390,7 @@
   "$volatile-popup@h1": "Fixed",
   "$volatile-popup@t1": "By opening trades with a fixed yield, you know in advance the amount of possible profit. Profitability in this trading mode can reach up to 90%. Trading is possible both with real and bonus funds",
   "$volatile-popup@h2": "NFX",
-  "$volatile-popup@t2": "В волатильном режиме доходность изменяется каждую секунду и остается неизвестной до момента открытия сделки. В этом режиме доходность варьируется в диапазоне от 10 до 10 000%. Торговля возможна исключительно на реальные средства, бонус в данном режиме не отрабатывается.",
+  "$volatile-popup@t2": "In the volatile mode, the yield changes every second and remains unknown until the opening of the transaction. In this mode, the yield ranges from 10 to 10,000%. Trading is possible only with real funds. Trades in this mode are not included in the required turnover for withdrawing the bonus.",
   "$asset-menu@fixed": "Fixed",
   "$asset-menu@volatile": "Volatile",
   "$asset-menu@expiration": "Expiration",
