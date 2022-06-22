@@ -502,7 +502,7 @@
   "$cashbox@filter@period": "Период",
   "$cashbox@filter@period@from": "От",
   "$cashbox@filter@period@to": "До",
-  "$cashbox@pagination@rows": "Строк на странице",
+  "$cashbox@pagination@rows": "Результатов на странице",
   "$cashbox@page@main": "Касса",
   "$cashbox@page@deposit": "Пополнить счет",
   "$cashbox@page@withdrawal": "Вывести средства",
