@@ -533,6 +533,7 @@
   "$cashbox@gift@freespins": "Страховые сделки",
   "$cashbox@gift@freespins@3": "Реальные",
   "$cashbox@gift@freespins@4": "Бонусные",
+  "$cashbox@answers": "Частые вопросы",
   "$terminal@server-err_buy-option@max-open-trades-for-exp-type": "Вы достигли максимального количества открытых сделок для данного режима торговли — {{@limit}}",
   "BG-7519$menu@education": "Обучение",
   "BG-7519$menu@about": "Компания",
