@@ -530,11 +530,11 @@
   "$cashbox@gift@bonus": "Бонус",
   "$cashbox@gift@tickets": "Квитки розіграшу",
   "$cashbox@gift@traderoom": "Торгова кімната",
-  "$cashbox@gift@freespins": "Страховые сделки",
+  "$cashbox@gift@freespins": "Безрисковые сделки",
   "$cashbox@gift@freespins@3": "Реальні",
   "$cashbox@gift@freespins@4": "Бонусні",
-  "$cashbox@answers": "Частые вопросы",
-  "$terminal@server-err_buy-option@max-open-trades-for-exp-type": "Вы достигли максимального количества открытых сделок для данного режима торговли — {{@limit}}",
+  "$cashbox@answers": "Найчастіші питання",
+  "$terminal@server-err_buy-option@max-open-trades-for-exp-type": "Ви досягли максимальної кількості відкритих угод для даного режиму торгівлі — {{@limit}}",
   "BG-7519$menu@education": "Навчання",
   "BG-7519$menu@about": "Компанія",
   "BG-7519$menu@trade-btn": "Торгувати",
@@ -692,7 +692,7 @@
   "$mobile@error-e2b542cacda91ab48e3679c2ab5dcccd": "Помилка авторизації, будь ласка, зверніться в службу підтримки support@binarium.com",
   "$mobile@error-c1051bb4-d103-4f74-8988-acbcafc7fdc3_g-recaptcha-response": "Будь ласка, підтвердіть, що ви не робот",
   "$mobile@error-81a59798b0424ab80ff5da93e148763a": "Помилка авторизації, будь ласка, зверніться в службу підтримки support@binarium.com",
-  "$mobile@error-e7edeb71-b846-4418-a8da-d186294839cd": "Регистрация недоступна для вашего региона",
+  "$mobile@error-e7edeb71-b846-4418-a8da-d186294839cd": "Реєстрація недоступна для вашого регіону",
   "$mobile@captcha@title": "Ви не робот?",
   "$mobile@captcha@text": "Будь ласка, клікніть на чекбокс нижче."
 }
