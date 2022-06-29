@@ -526,7 +526,7 @@
   "$cashbox@deposit@checkbox@promocode": "У меня есть промокод",
   "$cashbox@deposit@promocode": "Промокод",
   "$cashbox@error_promo_not_found": "Промо-код недействителен",
-  "$cashbox@error_deposit_min_max": "Сумма промо-кода должна быть от {{@min}} до {{@max}}",
+  "$cashbox@error_deposit_min_max": "Сумма должна быть от {{@min}} до {{@max}}",
   "$cashbox@gift@bonus": "Бонус",
   "$cashbox@gift@tickets": "Билеты розыгрыша",
   "$cashbox@gift@traderoom": "Торговая комната",
