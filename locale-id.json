@@ -574,6 +574,7 @@
   "$terminal@menu@qa": "Pertanyaan dan jawaban",
   "$terminal@menu@strategies": "Strategi",
   "$terminal@menu@btn@back": "Belakang",
+  "$terminal@menu@promos": "Bonuses",
   "$terminal@leaderboard@tournament": "Turnamen",
   "$terminal@leaderboard@toggle@open": "Peringkat lengkap",
   "$terminal@leaderboard@toggle@close": "Tutup",
