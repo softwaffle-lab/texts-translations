@@ -574,6 +574,7 @@
   "$terminal@menu@qa": "Preguntas y respuestas",
   "$terminal@menu@strategies": "Estrategias",
   "$terminal@menu@btn@back": "Volver",
+  "$terminal@menu@promos": "Bonuses",
   "$terminal@leaderboard@tournament": "Competencia",
   "$terminal@leaderboard@toggle@open": "Clasificación completa",
   "$terminal@leaderboard@toggle@close": "Cerrar",
