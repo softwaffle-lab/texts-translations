@@ -574,6 +574,7 @@
   "$terminal@menu@qa": "प्रश्न और उत्तर",
   "$terminal@menu@strategies": "रणनीतियाँ",
   "$terminal@menu@btn@back": "वापस",
+  "$terminal@menu@promos": "Bonuses",
   "$terminal@leaderboard@tournament": "टूर्नामेंट",
   "$terminal@leaderboard@toggle@open": "पूरी रैंकिंग",
   "$terminal@leaderboard@toggle@close": "बंद करें",

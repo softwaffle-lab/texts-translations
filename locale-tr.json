@@ -574,6 +574,7 @@
   "$terminal@menu@qa": "Sorular ve cevaplar",
   "$terminal@menu@strategies": "Stratejiler",
   "$terminal@menu@btn@back": "Geri",
+  "$terminal@menu@promos": "Bonuses",
   "$terminal@leaderboard@tournament": "Turnuva",
   "$terminal@leaderboard@toggle@open": "Tam sıralama",
   "$terminal@leaderboard@toggle@close": "Kapat",

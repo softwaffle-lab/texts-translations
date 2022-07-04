@@ -574,6 +574,7 @@
   "$terminal@menu@qa": "پرسشها و پاسخها",
   "$terminal@menu@strategies": "استراتژی ها",
   "$terminal@menu@btn@back": "عقب",
+  "$terminal@menu@promos": "Bonuses",
   "$terminal@leaderboard@tournament": "تورنومنت (مسابقات)",
   "$terminal@leaderboard@toggle@open": "رتبه کامل",
   "$terminal@leaderboard@toggle@close": "بستن",

@@ -574,6 +574,7 @@
   "$terminal@menu@qa": "คำถามและคำตอบ",
   "$terminal@menu@strategies": "กลยุทธ์",
   "$terminal@menu@btn@back": "ด้านหลัง",
+  "$terminal@menu@promos": "Bonuses",
   "$terminal@leaderboard@tournament": "ทัวร์นาเมนต์",
   "$terminal@leaderboard@toggle@open": "อันดับทั้งหมด",
   "$terminal@leaderboard@toggle@close": "ปิด",

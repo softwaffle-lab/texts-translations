@@ -574,6 +574,7 @@
   "$terminal@menu@qa": "Câu hỏi và trả lời",
   "$terminal@menu@strategies": "Chiến lược",
   "$terminal@menu@btn@back": "Quay lại",
+  "$terminal@menu@promos": "Bonuses",
   "$terminal@leaderboard@tournament": "Cuộc thi",
   "$terminal@leaderboard@toggle@open": "Tất cả xếp hạng",
   "$terminal@leaderboard@toggle@close": "Đóng",
