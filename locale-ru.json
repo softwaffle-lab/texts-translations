@@ -576,6 +576,7 @@
   "$terminal@menu@qa": "Вопросы и ответы",
   "$terminal@menu@strategies": "Стратегии",
   "$terminal@menu@btn@back": "Назад",
+  "$terminal@menu@promos": "Акции",
   "$terminal@leaderboard@tournament": "Турнир",
   "$terminal@leaderboard@toggle@open": "Весь рейтинг",
   "$terminal@leaderboard@toggle@close": "Свернуть",
