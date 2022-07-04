@@ -978,6 +978,8 @@
   "$terminal@btn@cancel": "Cancel",
   "$terminal@btn@apply": "Apply",
   "$terminal@loading": "Loading",
+  "$terminal@free-spins@real": "Реальные",
+  "$terminal@free-spins@bonus": "Бонусные",
   "$terminal@notification@readmore": "Learn More",
   "$site@asset-catalog@all": "All assets",
   "$site@asset-catalog@currencies": "Currencies",
