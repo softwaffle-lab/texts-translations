@@ -574,6 +574,7 @@
   "$terminal@menu@qa": "質問と回答",
   "$terminal@menu@strategies": "戦略",
   "$terminal@menu@btn@back": "戻る",
+  "$terminal@menu@promos": "Bonuses",
   "$terminal@leaderboard@tournament": "トーナメント",
   "$terminal@leaderboard@toggle@open": "完全なランキング",
   "$terminal@leaderboard@toggle@close": "取引完了",
