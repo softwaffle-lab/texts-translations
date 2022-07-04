@@ -978,6 +978,8 @@
   "$terminal@btn@cancel": "Скасувати",
   "$terminal@btn@apply": "Застосувати",
   "$terminal@loading": "Завантаження",
+  "$terminal@free-spins@real": "Реальные",
+  "$terminal@free-spins@bonus": "Бонусные",
   "$terminal@notification@readmore": "Детальніше",
   "$site@asset-catalog@all": "Всі активи",
   "$site@asset-catalog@currencies": "Валюти ",
