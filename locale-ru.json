@@ -980,6 +980,8 @@
   "$terminal@btn@cancel": "Отменить",
   "$terminal@btn@apply": "Применить",
   "$terminal@loading": "Загрузка",
+  "$terminal@free-spins@real": "Реальные",
+  "$terminal@free-spins@bonus": "Бонусные",
   "$terminal@notification@readmore": "Подробнее",
   "$site@asset-catalog@all": "Все активы",
   "$site@asset-catalog@currencies": "Валюты ",
