@@ -874,7 +874,7 @@
   "$terminal@notification@demo-option-limit": "Хотите заключить более 5 сделок одновременно? Откройте реальный счет. Чтобы продолжить на демо-счете — дождитесь завершения сделок",
   "$terminal@notification@tment-reenter-not-allowed": "Вы не можете совершить докупку пока есть открытые сделки.",
   "$terminal@notification@you-started-using-tment-wallet": "Используется турнирный счёт",
-  "$terminal@notification@core@native-deal-closed-body": "Сделка для {{@assetName}} завершилась в {{@closeTime}}. Доход {{@incomeValue}}",
+  "$terminal@core@notification@native-deal-closed-body": "Сделка для {{@assetName}} завершилась в {{@closeTime}}. Доход {{@incomeValue}}",
   "$terminal@core@notification@option-closed": "Сделка завершилась",
   "$terminal@core@notification@transaction-result": "Результат сделки {{@assetName}}",
   "$terminal@tment": "Турниры",
