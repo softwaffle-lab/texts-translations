@@ -921,7 +921,7 @@
   "$terminal@promo@empty": "Şu anda promosyon bulunmuyor. Lütfen en yeni haberlerimizi takip edin ve gelecek e-postalarımızı bekleyin.",
   "$terminal@promo@until": "Son tarih",
   "$terminal@promo@ends-in": "Bonusun bitimine kalan;",
-  "$terminal@section@title@bet": "Ticaret",
+  "$terminal@core@section@title@bet": "Trading",
   "$terminal@bet@tab@deposit": "Depozito",
   "$terminal@core@forecast@deal": "Ticaret",
   "$terminal@core@forecast@deals": "Ticaret sayısı",
