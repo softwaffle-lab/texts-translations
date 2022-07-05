@@ -872,7 +872,7 @@
   "$terminal@notification@demo-option-limit": "¿Quiere abrir más de 5 operaciones a la vez? Abra una cuenta real. Para seguir usando su cuenta de demostración, espere a que se complete la operación.",
   "$terminal@notification@tment-reenter-not-allowed": "No puede realizar compras adicionales mientras haya transacciones abiertas.",
   "$terminal@notification@you-started-using-tment-wallet": "Usted está usando una cuenta de concurso.",
-  "$terminal@notification@core@native-deal-closed-body": "Option for {{@assetName}} closed at {{@closeTime}}. Profit is {{@incomeValue}}",
+  "$terminal@core@notification@native-deal-closed-body": "Option for {{@assetName}} closed at {{@closeTime}}. Profit is {{@incomeValue}}",
   "$terminal@core@notification@option-closed": "Opción cerrada",
   "$terminal@core@notification@transaction-result": "Resultado para {{@assetName}}",
   "$terminal@tment": "Concursos",
