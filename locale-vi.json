@@ -921,7 +921,7 @@
   "$terminal@promo@empty": "Hiện tại không có chương trình quảng bá nào. Hãy theo dõi các tin tức mới nhất của chúng tôi và chờ đón các email trong tương lai.",
   "$terminal@promo@until": "đến",
   "$terminal@promo@ends-in": "Thưởng sẽ kết thúc trong",
-  "$terminal@section@title@bet": "Giao dịch",
+  "$terminal@core@section@title@bet": "Trading",
   "$terminal@bet@tab@deposit": "Nộp tiền",
   "$terminal@core@forecast@deal": "Giao dịch",
   "$terminal@core@forecast@deals": "Giao dịch",
