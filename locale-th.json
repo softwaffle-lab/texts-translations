@@ -921,7 +921,7 @@
   "$terminal@promo@empty": "ไม่มีโปรโมชั่นในขณะนี้ กรุณาติดตามข่าวสารล่าสุดของเรา และคอยติดตามอีเมลที่จะส่งให้ต่อไป",
   "$terminal@promo@until": "จนกระทั่ง",
   "$terminal@promo@ends-in": "โบนัสสิ้นสุดใน",
-  "$terminal@section@title@bet": "การซื้อขาย",
+  "$terminal@core@section@title@bet": "Trading",
   "$terminal@bet@tab@deposit": "การฝากเงิน",
   "$terminal@core@forecast@deal": "การซื้อขาย",
   "$terminal@core@forecast@deals": "การซื้อขาย",
