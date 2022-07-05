@@ -872,7 +872,7 @@
   "$terminal@notification@demo-option-limit": "Ingin membuka lebih dari 5 perdagangan sekaligus? Buka akun riil. Untuk melanjutkan penggunaan akun demo, tunggu sampai perdagangan selesai",
   "$terminal@notification@tment-reenter-not-allowed": "Anda tidak dapat melakukan pembelian tambahan jika masih ada transaksi terbuka.",
   "$terminal@notification@you-started-using-tment-wallet": "Anda menggunakan akun kontes.",
-  "$terminal@notification@core@native-deal-closed-body": "Option for {{@assetName}} closed at {{@closeTime}}. Profit is {{@incomeValue}}",
+  "$terminal@core@notification@native-deal-closed-body": "Option for {{@assetName}} closed at {{@closeTime}}. Profit is {{@incomeValue}}",
   "$terminal@core@notification@option-closed": "Opsi ditutup",
   "$terminal@core@notification@transaction-result": "Hasil untuk {{@assetName}}",
   "$terminal@tment": "Kontes",
