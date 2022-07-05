@@ -872,7 +872,7 @@
   "$terminal@notification@demo-option-limit": "5つ以上の取引を同時に開けたいですか？本物のアカウントを開けてください。引き続きデモ用アカウントを使うには、取引が完了するまで待ってください",
   "$terminal@notification@tment-reenter-not-allowed": "未処理のトランザクションがある間は追加購入はできません。",
   "$terminal@notification@you-started-using-tment-wallet": "コンテストアカウントを利用しています。",
-  "$terminal@notification@core@native-deal-closed-body": "Option for {{@assetName}} closed at {{@closeTime}}. Profit is {{@incomeValue}}",
+  "$terminal@core@notification@native-deal-closed-body": "Option for {{@assetName}} closed at {{@closeTime}}. Profit is {{@incomeValue}}",
   "$terminal@core@notification@option-closed": "クローズしたオプション",
   "$terminal@core@notification@transaction-result": "{{@assetName}} 結果",
   "$terminal@tment": "コンテスト",
