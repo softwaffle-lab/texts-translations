@@ -921,7 +921,7 @@
   "$terminal@promo@empty": "No current promotions available. Please follow our latest news and watch out for future emails.",
   "$terminal@promo@until": "until",
   "$terminal@promo@ends-in": "Bonus ends in",
-  "$terminal@section@title@bet": "Trading",
+  "$terminal@core@section@title@bet": "Trading",
   "$terminal@bet@tab@deposit": "Deposit",
   "$terminal@core@forecast@deal": "Trade",
   "$terminal@core@forecast@deals": "Trades",
