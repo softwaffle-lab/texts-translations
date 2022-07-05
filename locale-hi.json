@@ -921,7 +921,7 @@
   "$terminal@promo@empty": "कोई वर्तमान प्रमोशन उपलब्ध नहीं है। कृपया हमारे नवीनतम सूचनाओं को फॉलो करें और भविष्य में आने वाले ई-मेलों को देखें।",
   "$terminal@promo@until": "तक:",
   "$terminal@promo@ends-in": "बोनस समाप्ति में समय",
-  "$terminal@section@title@bet": "ट्रेडिंग",
+  "$terminal@core@section@title@bet": "ट्रेडिंग",
   "$terminal@bet@tab@deposit": "जमा करें",
   "$terminal@core@forecast@deal": "ट्रेड",
   "$terminal@core@forecast@deals": "ट्रेड",
