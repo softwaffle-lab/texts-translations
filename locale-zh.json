@@ -872,7 +872,7 @@
   "$terminal@notification@demo-option-limit": "Want to open more than 5 trades at once? Open a real account. To continue using your demo account, wait until the trade is complete",
   "$terminal@notification@tment-reenter-not-allowed": "You cannot make additional purchases while there are open transactions.",
   "$terminal@notification@you-started-using-tment-wallet": "You are using a contest account.",
-  "$terminal@notification@core@native-deal-closed-body": "Option for {{@assetName}} closed at {{@closeTime}}. Profit is {{@incomeValue}}",
+  "$terminal@core@notification@native-deal-closed-body": "{{@assetName}} 的期权已于 {{@closeTime}} 关闭。利润为 {{@incomeValue}}",
   "$terminal@core@notification@option-closed": "已关闭期权",
   "$terminal@core@notification@transaction-result": "{{@assetName}} 的结果",
   "$terminal@tment": "Contests",
