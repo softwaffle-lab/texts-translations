@@ -872,7 +872,7 @@
   "$terminal@notification@demo-option-limit": "Bạn muốn mở nhiều hơn 5 giao dịch cùng lúc? Hãy mở một tài khoản thật. Để tiếp tục sử dụng tài khoản demo của bạn, hãy chờ đến khi giao dịch hoàn tất",
   "$terminal@notification@tment-reenter-not-allowed": "Bạn không thể mua thêm khi còn có các giao dịch mở.",
   "$terminal@notification@you-started-using-tment-wallet": "Bạn đang sử dụng một tài khoản cuộc thi.",
-  "$terminal@notification@core@native-deal-closed-body": "Option for {{@assetName}} closed at {{@closeTime}}. Profit is {{@incomeValue}}",
+  "$terminal@core@notification@native-deal-closed-body": "Option for {{@assetName}} closed at {{@closeTime}}. Profit is {{@incomeValue}}",
   "$terminal@core@notification@option-closed": "Tùy chọn bị đóng",
   "$terminal@core@notification@transaction-result": "Kết quả cho {{@assetName}}",
   "$terminal@tment": "Cuộc thi",
