@@ -921,7 +921,7 @@
   "$terminal@promo@empty": "現在、プロモーションはありません。当社の最新ニュースをフォローして、近日中に送信されるメールをお見逃しなく。",
   "$terminal@promo@until": "期限",
   "$terminal@promo@ends-in": "ボーナス終了時間",
-  "$terminal@section@title@bet": "取引",
+  "$terminal@core@section@title@bet": "取引",
   "$terminal@bet@tab@deposit": "入金",
   "$terminal@core@forecast@deal": "トレード",
   "$terminal@core@forecast@deals": "取引",
