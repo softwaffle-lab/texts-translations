@@ -872,7 +872,7 @@
   "$terminal@notification@demo-option-limit": "Aynı anda 5'in üzerinde ticaret mi açmak istiyorsunuz? Gerçek bir hesap açın. Demo hesabınızı kullanmaya devam etmek için ticaretin tamamlanmasını bekleyin",
   "$terminal@notification@tment-reenter-not-allowed": "Açık işlemler varken ek satın alma işlemi gerçekleştiremezsiniz.",
   "$terminal@notification@you-started-using-tment-wallet": "Yarışma hesabı kullanıyorsunuz.",
-  "$terminal@notification@core@native-deal-closed-body": "Option for {{@assetName}} closed at {{@closeTime}}. Profit is {{@incomeValue}}",
+  "$terminal@core@notification@native-deal-closed-body": "Option for {{@assetName}} closed at {{@closeTime}}. Profit is {{@incomeValue}}",
   "$terminal@core@notification@option-closed": "Opsiyon kapalı",
   "$terminal@core@notification@transaction-result": "{{@assetName}} sonuçları",
   "$terminal@tment": "Yarışmalar",
