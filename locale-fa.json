@@ -872,7 +872,7 @@
   "$terminal@notification@demo-option-limit": "می‌خواهید بیش از 5 معامله را به طور همزمان باز کنید؟ حسابی واقعی باز کنید. برای این که بتوانید باز هم از حساب آزمایشی‌تان استفاده کنید، باید صبر کنید تا معامله تمام شود",
   "$terminal@notification@tment-reenter-not-allowed": "شما نمی‌توانید زمانی که تراکنش‌های باز دارید، خریدهای دیگری انجام دهید.",
   "$terminal@notification@you-started-using-tment-wallet": "شما از حسابی رقابتی استفاده می‌کنید.",
-  "$terminal@notification@core@native-deal-closed-body": "Option for {{@assetName}} closed at {{@closeTime}}. Profit is {{@incomeValue}}",
+  "$terminal@core@notification@native-deal-closed-body": "Option for {{@assetName}} closed at {{@closeTime}}. Profit is {{@incomeValue}}",
   "$terminal@core@notification@option-closed": "گزینه بسته شد",
   "$terminal@core@notification@transaction-result": "نتیجه برای {{@assetName}}",
   "$terminal@tment": "رقابت‌ها",
