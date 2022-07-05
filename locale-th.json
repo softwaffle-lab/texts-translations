@@ -872,7 +872,7 @@
   "$terminal@notification@demo-option-limit": "ต้องการเปิดมากกว่า 5 การซื้อขายในคราวเดียวใช่หรือไม่? เปิดบัญชีจริง ในการที่จะใช้งานบัญชีสาธิตของคุณต่อ ให้รอคอยจนกว่าการซื้อขายเสร็จสมบูรณ์เสียก่อน",
   "$terminal@notification@tment-reenter-not-allowed": "คุณไม่สามารถซื้อเพิ่มเติมในขณะที่มีธุรกรรมที่เปิดอยู่",
   "$terminal@notification@you-started-using-tment-wallet": "คุณกำลังใช้งานบัญชีแข่งขัน",
-  "$terminal@notification@core@native-deal-closed-body": "Option for {{@assetName}} closed at {{@closeTime}}. Profit is {{@incomeValue}}",
+  "$terminal@core@notification@native-deal-closed-body": "Option for {{@assetName}} closed at {{@closeTime}}. Profit is {{@incomeValue}}",
   "$terminal@core@notification@option-closed": "ออปชันปิดแล้ว",
   "$terminal@core@notification@transaction-result": "ผลลัพธ์สำหรับ {{@assetName}}",
   "$terminal@tment": "การแข่งขัน",
