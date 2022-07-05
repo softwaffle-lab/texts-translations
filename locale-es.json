@@ -921,7 +921,7 @@
   "$terminal@promo@empty": "No hay promociones disponibles actualmente. Por favor, siga nuestras últimas noticias y lea nuestros futuros correos electrónicos.",
   "$terminal@promo@until": "hasta",
   "$terminal@promo@ends-in": "La bonificación finaliza en",
-  "$terminal@section@title@bet": "Trading",
+  "$terminal@core@section@title@bet": "Trading",
   "$terminal@bet@tab@deposit": "Depósito",
   "$terminal@core@forecast@deal": "Operar",
   "$terminal@core@forecast@deals": "Operaciones",
