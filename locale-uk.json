@@ -921,7 +921,7 @@
   "$terminal@promo@empty": "В даний момент акцій не проводиться. Будь ласка, слідкуйте за новинами та поштовими розсилками.",
   "$terminal@promo@until": "до",
   "$terminal@promo@ends-in": "Завершення акції через",
-  "$terminal@section@title@bet": "Торгівля",
+  "$terminal@core@section@title@bet": "Торговля",
   "$terminal@bet@tab@deposit": "Депозит",
   "$terminal@core@forecast@deal": "Угода",
   "$terminal@core@forecast@deals": "Угоди",
