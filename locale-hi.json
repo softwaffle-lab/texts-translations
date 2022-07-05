@@ -872,7 +872,7 @@
   "$terminal@notification@demo-option-limit": "एक बार मे 5 से अधिक ट्रेड खोलना चाहते हैं? एक वास्तविक खाता खोलें।अपने डेमो खाते का इस्तेमाल जारी रखने के लिए ट्रेड के पूर्ण होने तक इंतजार करें।",
   "$terminal@notification@tment-reenter-not-allowed": "खुला लेनदेन करते समय आप अतिरिक्त खरीददारी नहीं कर सकते हैं।",
   "$terminal@notification@you-started-using-tment-wallet": "आप प्रतियोगी खाते का इस्तेमाल कर रहे हैं।",
-  "$terminal@notification@core@native-deal-closed-body": "Option for {{@assetName}} closed at {{@closeTime}}. Profit is {{@incomeValue}}",
+  "$terminal@core@notification@native-deal-closed-body": "Option for {{@assetName}} closed at {{@closeTime}}. Profit is {{@incomeValue}}",
   "$terminal@core@notification@option-closed": "विकल्प बंद",
   "$terminal@core@notification@transaction-result": "{{@assetName}} के लिए परिणाम",
   "$terminal@tment": "प्रतिस्पर्द्धाएँ",
