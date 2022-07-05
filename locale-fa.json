@@ -921,7 +921,7 @@
   "$terminal@promo@empty": "No current promotions available. Please follow our latest news and watch out for future emails.",
   "$terminal@promo@until": "تا",
   "$terminal@promo@ends-in": "پاداش پایان می یابد در",
-  "$terminal@section@title@bet": "معامله گری",
+  "$terminal@core@section@title@bet": "Trading",
   "$terminal@bet@tab@deposit": "واریز کردن",
   "$terminal@core@forecast@deal": "معامله",
   "$terminal@core@forecast@deals": "معاملات",
