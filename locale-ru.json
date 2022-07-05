@@ -923,7 +923,7 @@
   "$terminal@promo@empty": "В данный момент акций не проводится. Пожалуйста, следите за новостями и почтовыми рассылками.",
   "$terminal@promo@until": "до",
   "$terminal@promo@ends-in": "Завершение акции через",
-  "$terminal@section@title@bet": "Торговля",
+  "$terminal@core@section@title@bet": "Торговля",
   "$terminal@bet@tab@deposit": "Депозит",
   "$terminal@core@forecast@deal": "Сделка",
   "$terminal@core@forecast@deals": "Сделки",
