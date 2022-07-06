@@ -434,6 +434,7 @@
   "$terminal@cashbox@withdrawal@restrict-count": "Amount of withdrawal requests available at the moment: 0",
   "$terminal@cashbox@withdrawal@restrict-amount": "Sum of available withdrawals at the moment: 0",
   "$terminal$section@backward": "Back",
+  "$terminal@menu@deposit": "Пополнить счет",
   "$terminal@menu@calendar": "Economic calendar",
   "$terminal@calendar@tab-1": "Yesterday",
   "$terminal@calendar@tab-2": "Today",
