@@ -434,6 +434,7 @@
   "$terminal@cashbox@withdrawal@restrict-count": "Количество доступных заявок на вывод средств в данный момент: 0",
   "$terminal@cashbox@withdrawal@restrict-amount": "Сумма доступных выводов в данный момент: 0",
   "$terminal$section@backward": "Назад",
+  "$terminal@menu@deposit": "Пополнить счет",
   "$terminal@menu@calendar": "Календарь событий",
   "$terminal@calendar@tab-1": "Вчера",
   "$terminal@calendar@tab-2": "Сегодня",
