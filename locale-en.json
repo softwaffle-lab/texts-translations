@@ -1245,6 +1245,8 @@
   "$site@tr@vip-text": "Make a deposit of<br> at least $5000, €5000 or ₽300,000 to your account",
   "$site@tr@vip-list": "<li>Your own personal manager</li><li>Detailed comments on every signal</li><li>Trades with an expiration time longer than 1 day</li><li>Trading based on the latest global news and events</li><li>Trading training</li>",
   "$site@tr@popular": "Popular choice",
+  "$site@tr@video@title": "Торговая комната",
+  "$site@tr@video@text": "Заручитесь поддержкой профессиональных трейдеров",
   "$site@deposit@error-empty-sum": "Enter the amount of the deposit",
   "$site@deposit@error-min-sum": "Minimal deposit {{min}}.",
   "$site@deposit@error-max-sum": "Maximal deposit {{max}}.",
