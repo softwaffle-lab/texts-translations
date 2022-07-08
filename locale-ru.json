@@ -1559,7 +1559,7 @@
   "$site@signin-2f@title": "Двухфакторная аутентификация",
   "$site@signin-2f@lost-title" : "Потеряли доступ к аутенфицирующему устройству?",
   "$site@signin-2f@lost-code" : "Введите код восстановления",
-  "$site@site@signin-2f@lost-action" : "Продолжить",
+  "$site@signin-2f@lost-action" : "Продолжить",
   "$site@signin-2f@restore-title": "Код восстановления",
   "$site@signin-2f@restore-code": "Введите код восстановления, полученный при подключении двухфакторной аутентификации",
   "$site@signin-2f@restore-label": "Код восстановления",
