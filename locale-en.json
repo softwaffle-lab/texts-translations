@@ -1559,7 +1559,7 @@
   "$site@signin-2f@title": "Two-factor authentication",
   "$site@signin-2f@lost-title": "Lost access to the authentication device?",
   "$site@signin-2f@lost-code": "Enter the recovery code",
-  "$site@signin-2f@lost-action": "Продолжить",
+  "$site@signin-2f@lost-action": "Continue",
   "$site@signin-2f@restore-title": "Recovery code",
   "$site@signin-2f@restore-code": "Enter the recovery code received upon activation of the two-factor authentication",
   "$site@signin-2f@restore-label": "Recovery code",
