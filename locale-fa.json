@@ -1211,7 +1211,7 @@
   "$site@profile@social-on": "پیوند شده",
   "$site@profile@social-setup": "پیوند کردن",
   "$site@profile@change": "تغییر دادن",
-  "$site@profile@warning": "Editable information is found in fields that can be changed.<br><br>If for any reason you want to change information that has been locked, then please get in touch with our support service: <a href=\"mailto:{{@gEmail}}\">{{@gEmail}}</a></a>",
+  "$site@profile@warning": "اطلاعات قابل ویرایش در کادرهایی وجود دارد که قابل تغییر هستند.<br><br> اگر به هر دلیلی می‌خواهید اطلاعات قفل شده را تغییر دهید، در این صورت لطفاً با خدمات پشتیبانی ما تماس بگیرید: <a href=\"mailto:{{@gEmail}}\">{{@gEmail}}</a></a>",
   "$site@profile@confirm-warning": "ایمیل خود را چک کنید. ما با پیوند تأیید پیامی را به آدرس مشخص شده ارسال کردیم که باید روی آن کلیک کنید.",
   "$site@profile@email-not-confirmed": "تأیید نشده",
   "$site@profile@email-confirmed": "تأیید شده",
