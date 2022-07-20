@@ -772,7 +772,7 @@
   "$terminal@tment@button": "เข้าร่วมการแข่งขัน",
   "$terminal@tment@paid": "ทัวร์นาเมนต์ที่ต้องชำระเงิน",
   "$terminal@tment@activate-wallet": "เปิดใช้งานกระเป๋าสตางค์การแข่งขัน",
-  "$terminal@tment@button@participate": "Entry fee",
+  "$terminal@tment@button@participate": "ค่าธรรมเนียมการเข้าร่วม",
   "$terminal@countdown@timer_days": "วัน",
   "$terminal@countdown@timer_hours": "ชั่วโมง",
   "$terminal@countdown@timer_minutes": "นาที",
