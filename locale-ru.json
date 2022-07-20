@@ -772,6 +772,7 @@
   "$terminal@tment@button": "Участвовать в турнире",
   "$terminal@tment@paid": "Платный турнир",
   "$terminal@tment@activate-wallet": "Турнирный счёт",
+  "$terminal@tment@button@participate": "Участие",
   "$terminal@countdown@timer_days": "дни",
   "$terminal@countdown@timer_hours": "часы",
   "$terminal@countdown@timer_minutes": "минуты",
