@@ -772,6 +772,7 @@
   "$terminal@tment@button": "در رقابت شرکت کنید",
   "$terminal@tment@paid": "مسابقات پولی",
   "$terminal@tment@activate-wallet": "فعال کردن کیف پول رقابت",
+  "$terminal@tment@button@participate": "Entry fee",
   "$terminal@countdown@timer_days": "روز",
   "$terminal@countdown@timer_hours": "ساعت",
   "$terminal@countdown@timer_minutes": "دقیقه",
