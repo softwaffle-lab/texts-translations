@@ -772,7 +772,7 @@
   "$terminal@tment@button": "Participate in the contest",
   "$terminal@tment@paid": "Paid tournament",
   "$terminal@tment@activate-wallet": "Activate contest wallet",
-  "$terminal@tment@button@participate": "Участие",
+  "$terminal@tment@button@participate": "Entry fee",
   "$terminal@countdown@timer_days": "days",
   "$terminal@countdown@timer_hours": "hours",
   "$terminal@countdown@timer_minutes": "minutes",
