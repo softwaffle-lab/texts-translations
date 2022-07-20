@@ -772,6 +772,7 @@
   "$terminal@tment@button": "コンテストに参加する",
   "$terminal@tment@paid": "支払い済みのトーナメント",
   "$terminal@tment@activate-wallet": "コンテスト・ウォレットを有効にしてください",
+  "$terminal@tment@button@participate": "入場料",
   "$terminal@countdown@timer_days": "日",
   "$terminal@countdown@timer_hours": "時間",
   "$terminal@countdown@timer_minutes": "分",

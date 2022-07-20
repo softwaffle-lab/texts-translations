@@ -772,6 +772,7 @@
   "$terminal@tment@button": "Ikuti kontes",
   "$terminal@tment@paid": "Turnamen berbayar",
   "$terminal@tment@activate-wallet": "Aktifkan dompet kontes",
+  "$terminal@tment@button@participate": "Biaya pendaftaran",
   "$terminal@countdown@timer_days": "hari",
   "$terminal@countdown@timer_hours": "jam",
   "$terminal@countdown@timer_minutes": "menit",
