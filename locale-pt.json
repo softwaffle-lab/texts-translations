@@ -772,6 +772,7 @@
   "$terminal@tment@button": "Participar no concurso",
   "$terminal@tment@paid": "Torneio pago",
   "$terminal@tment@activate-wallet": "Ativar carteira de concurso",
+  "$terminal@tment@button@participate": "Entry fee",
   "$terminal@countdown@timer_days": "dias",
   "$terminal@countdown@timer_hours": "horas",
   "$terminal@countdown@timer_minutes": "minutos",
